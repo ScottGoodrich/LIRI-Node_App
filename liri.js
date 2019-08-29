@@ -2,7 +2,7 @@
 
 // node liri.js concert-this <artist/band name here>`
 
-//      * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/                events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the                  terminal:
+//      * This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/                events?app_id=codingbootcamp") for an artist and render the following information about each event to the                  terminal:
 
 //      * Name of the venue
 
@@ -57,6 +57,44 @@
 //      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
 require("dotenv").config();
-
+var fs = require("fs");
 var keys = require("./keys.js");
-var spotify = new Spotify(keys.spotify);
+var axios = require("axios");
+var moment = require("moment");
+//  var concert = new Concert();
+//  var spotify = new Spotify(keys.spotify);
+
+var Concert = function() {
+    var divider = "\n————————————————————————";
+    
+    this.findConcert = function(artist) {
+        var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+
+        axios.get(URL).then(function(response) {
+            
+                var json = response.data;
+                for (i = 0; i < 10; i++) {
+
+                var concertData = [
+                        "Venue: " + json[i].venue.name,
+                        "Location: " + json[i].venue.city + ", " + json[i].venue.region +  ", " + json[i].venue.country,
+                        "Date: " + json[i].datetime + "\n\n"
+                    ].join("\n");
+
+                    fs.appendFile("log.txt", concertData + divider, function(err) {
+                        if (err) {
+                            throw err;
+                        }
+                        console.log(concertData);
+                    
+                    });
+                }
+        });
+
+    };
+};
+module.exports = Concert;
+    // this.venue = venue;
+    // this.location = location;
+    // this.date = date;
+    // var artist = process.argv[3]
