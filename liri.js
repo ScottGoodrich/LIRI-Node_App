@@ -105,6 +105,7 @@ var Concert = function(artist) {
 
     if (search === "concert-this") {
         console.log("Searching for tour dates for " + artist.toUpperCase() + "\n");
+        Concert(artist);
       }
 
 // var Spotify = require("node-spotify-api");
