@@ -62,24 +62,20 @@ var keys = require("./keys.js");
 var axios = require("axios");
 var moment = require("moment");
 var divider = "\n————————————————————————";
+var concert = keys.concert;
+var search = process.argv[2];
+var artist = process.argv.slice(3).join(" ");
 
 
-var Concert = function() {
-    var concert = new Concert(keys.concert);
-    
-    this.findConcert = function(artist) {
-        var search = process.argv[2];
-        var artist = process.argv.slice(3).join(" ");
-        var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + "codingbootcamp";
+var Concert = function(artist) {
+        
+        var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + concert;
 
         axios.get(URL).then(function(response) {
             
+            
                 var json = response.data;
 
-                if (search === "concert-this") {
-                    console.log("Searching for tour dates for " + artist.toUpperCase() + "\n");
-                    concert.findConcert(artist);
-                  }
                 if (!json.length) {
                     console.log("No results found for " + artist.toUpperCase());
                       return;
@@ -97,18 +93,19 @@ var Concert = function() {
 
                     console.log(concertData.join("\n"));
                 }
-        });
-
-    };
-    fs.appendFile("log.txt", JSON.stringify(concertData + divider), function(err) {
-        if (err) {
-            throw err;
-        }
-        console.log("Logged");
+                fs.appendFile("log.txt", JSON.stringify(concertData + divider), function(err) {
+                    if (err) {
+                        throw err;
+                    }
+                    console.log("Logged");
+                })     
+            });
     }
-)}
 
 
+    if (search === "concert-this") {
+        console.log("Searching for tour dates for " + artist.toUpperCase() + "\n");
+      }
 
 // var Spotify = require("node-spotify-api");
 
