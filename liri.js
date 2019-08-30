@@ -61,40 +61,93 @@ var fs = require("fs");
 var keys = require("./keys.js");
 var axios = require("axios");
 var moment = require("moment");
-//  var concert = new Concert();
-//  var spotify = new Spotify(keys.spotify);
+var divider = "\n————————————————————————";
+
 
 var Concert = function() {
-    var divider = "\n————————————————————————";
+    var concert = new Concert(keys.concert);
     
     this.findConcert = function(artist) {
-        var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
+        var search = process.argv[2];
+        var artist = process.argv.slice(3).join(" ");
+        var URL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + "codingbootcamp";
 
         axios.get(URL).then(function(response) {
             
                 var json = response.data;
-                for (i = 0; i < 10; i++) {
 
-                var concertData = [
+                if (search === "concert-this") {
+                    console.log("Searching for tour dates for " + artist.toUpperCase() + "\n");
+                    concert.findConcert(artist);
+                  }
+                if (!json.length) {
+                    console.log("No results found for " + artist.toUpperCase());
+                      return;
+                    }
+                console.log("Upcoming concerts for " + artist.toUpperCase() + ":\n");
+                console.log("Made it this far");
+                var concertData = [];   
+                for (i = 0; i < json.length; i++) {
+                    console.log(json[i]);
+                    concertData.push(
                         "Venue: " + json[i].venue.name,
                         "Location: " + json[i].venue.city + ", " + json[i].venue.region +  ", " + json[i].venue.country,
                         "Date: " + json[i].datetime + "\n\n"
-                    ].join("\n");
+                        );
 
-                    fs.appendFile("log.txt", concertData + divider, function(err) {
-                        if (err) {
-                            throw err;
-                        }
-                        console.log(concertData);
-                    
-                    });
+                    console.log(concertData.join("\n"));
                 }
         });
 
     };
-};
+    fs.appendFile("log.txt", JSON.stringify(concertData + divider), function(err) {
+        if (err) {
+            throw err;
+        }
+        console.log("Logged");
+    }
+)}
+
+
+
+// var Spotify = require("node-spotify-api");
+
+// var spotify = new Spotify(keys.spotify);
+
+//     spotify.findSong({
+//     type: "track",
+//     query: song
+//     }).then(function(response) {
+//         var json = response[0].data;
+//             if (!json.length) {
+//                 console.log("No results found for " + song.toUpperCase());
+//                       return;
+//                     }
+//                     console.log("Most popular result for " + song.toUpperCase() + ":\n");
+            
+
+//             var concertData = [
+//                         "Artist(s): " + json.,
+//                         "Song: " + json. + ", " + json. +  ", " + json.,
+//                         "Preview: " + json. + "\n\n"
+//                     ].join("\n");
+
+//                     if (!song) {
+//                         this.findSong("The Sign");
+//                         }
+            
+
+//                     fs.appendFile("log.txt", concertData + divider, function(err) {
+//                         if (err) {
+//                             throw err;
+//                         }
+//                         console.log(concertData);
+                    
+//                     });
+  
+//     });
+        
+
+
+// module.exports = Spotify;
 module.exports = Concert;
-    // this.venue = venue;
-    // this.location = location;
-    // this.date = date;
-    // var artist = process.argv[3]
