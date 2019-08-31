@@ -1,32 +1,3 @@
-// "concert-this"
-
-// node liri.js concert-this <artist/band name here>`
-
-//      * This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + "/                events?app_id=codingbootcamp") for an artist and render the following information about each event to the                  terminal:
-
-//      * Name of the venue
-
-//      * Venue location
-
-//      * Date of the Event (use moment to format this as "MM/DD/YYYY")
-
-
-// "spotify-this-song"
-
-//  node liri.js spotify-this-song '<song name here>'`
-
-//      * This will show the following information about the song in your terminal/bash window
-
-//      * Artist(s)
-
-//      * The song's name
-
-//      * A preview link of the song from Spotify
-
-//      * The album that the song is from
-
-//    * If no song is provided then your program will default to "The Sign" by Ace of Base.
-
 
 // "movie-this"
 
@@ -63,9 +34,13 @@ var axios = require("axios");
 var moment = require("moment");
 var divider = "\n————————————————————————";
 var concert = keys.concert;
+var movieSearch = keys.movieSearch;
 var search = process.argv[2];
 var artist = process.argv.slice(3).join(" ");
+var song = process.argv.slice(3).join(" ");
+var movie = process.argv.slice(3).join(" ");
 
+// <-------------------------concert-this---------------------------->
 
 var Concert = function(artist) {
         
@@ -82,13 +57,14 @@ var Concert = function(artist) {
                     }
                 console.log("Upcoming concerts for " + artist.toUpperCase() + ":\n");
                 console.log("Made it this far");
+
                 var concertData = [];   
                 for (i = 0; i < json.length; i++) {
                     console.log(json[i]);
                     concertData.push(
                         "Venue: " + json[i].venue.name,
                         "Location: " + json[i].venue.city + ", " + json[i].venue.region +  ", " + json[i].venue.country,
-                        "Date: " + json[i].datetime + "\n\n"
+                        "Date: " + moment(json[i].datetime).format('MM/DD/YYYY') + "\n\n"
                         );
 
                     console.log(concertData.join("\n"));
@@ -97,7 +73,7 @@ var Concert = function(artist) {
                     if (err) {
                         throw err;
                     }
-                    console.log("Logged");
+                    console.log("Concerts logged");
                 })     
             });
     }
@@ -108,44 +84,105 @@ var Concert = function(artist) {
         Concert(artist);
       }
 
-// var Spotify = require("node-spotify-api");
+// <-------------------------spotify-this-song---------------------------->
 
-// var spotify = new Spotify(keys.spotify);
+var nodeSpot = require("node-spotify-api");
+var Spotify = function(song) {
 
-//     spotify.findSong({
-//     type: "track",
-//     query: song
-//     }).then(function(response) {
-//         var json = response[0].data;
-//             if (!json.length) {
-//                 console.log("No results found for " + song.toUpperCase());
-//                       return;
-//                     }
-//                     console.log("Most popular result for " + song.toUpperCase() + ":\n");
-            
+    var spotify = new Spotify(keys.spotify);
 
-//             var concertData = [
-//                         "Artist(s): " + json.,
-//                         "Song: " + json. + ", " + json. +  ", " + json.,
-//                         "Preview: " + json. + "\n\n"
-//                     ].join("\n");
+    spotify.findSong({
+        URL: "https://api.spotify.com/v1/tracks/" + song,
+        type: "track",
+        query: song
+        }).then(function(response) {
 
-//                     if (!song) {
-//                         this.findSong("The Sign");
-//                         }
-            
-
-//                     fs.appendFile("log.txt", concertData + divider, function(err) {
-//                         if (err) {
-//                             throw err;
-//                         }
-//                         console.log(concertData);
-                    
-//                     });
-  
-//     });
+            var json = response[0].data;
         
+                if (!json.length) {
+                    console.log("No results found for " + song.toUpperCase());
+                    return;
+                    }
+                console.log("Most popular result for " + song.toUpperCase() + ":\n");
+                console.log("Made it this far");
+                
+
+                var songData = [];
+                    console.log(json);
+                    songData.push
+                            ("Artist(s): " + json.artists,
+                            "Song: " + json.name,
+                            "Preview: " + json.preview_url + "\n\n")
+                        .join("\n");
+                    console.log(songData.join("\n"));
+
+                        if (!song) {
+                            this.findSong("The Sign");
+                            }
+            
+            fs.appendFile("log.txt", JSON.stringify(songData + divider), function(err) {
+                if (err) {
+                    throw err;
+                    }
+                console.log(songData);
+                            
+            });
+        });
+    }
+    if (search === "spotify-this-song") {
+        console.log("Searching for " + song.toUpperCase() + "\n");
+        Spotify(song);
+      }
+
+// <-------------------------movie-this---------------------------->
+
+var Movie = function(movie) {
+    var URL = "https://www.omdbapi.com/?t=" + movie + "&apikey=" + movieSearch;
+
+    axios.get(URL).then(function(response) {
+            
+        var json = response.data;
+
+        if (!json.length) {
+            console.log("No results found for " + movie.toUpperCase());
+              return;
+            }
+        console.log("Made it this far");
+
+        var movieData = [];   
+        for (i = 0; i < json.length; i++) {
+            console.log(json[i]);
+            movieData.push(
+                "Title: " + json[i].Title,
+                "Year of release: " + json[i].Year,
+                "IMDB rating: " + json[i].imdbRating,
+                "Rotten Tomatoes rating: " + json[i].Ratings[1].Value,
+                "Country of production: " + json[i].Country,
+                "Language: " + json[i].Language,
+                "Plot synopsis: " + json[i].Plot,
+                "Cast: " + json[i].Actors + "\n\n"
+                );
+
+            console.log(movieData.join("\n"));
+        }
+        fs.appendFile("log.txt", JSON.stringify(movieData + divider), function(err) {
+            if (err) {
+                throw err;
+            }
+            console.log("Movie logged");
+        })     
+    });
+}
 
 
-// module.exports = Spotify;
+if (search === "movie-this") {
+    console.log("Searching for " + movie.toUpperCase() + "\n");
+    Movie(movie);
+        if (!movie) {
+            Movie("Mr. Nobody");   
+        };
+    };
+
+module.exports = Movie;
+module.exports = Spotify;
 module.exports = Concert;
