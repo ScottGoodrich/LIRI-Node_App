@@ -15,7 +15,7 @@ Again in the terminal, type "node liri.js movie-this <movie title>" to query the
 # do-what-it-says
 "node liri.js do-what-it-says" will return Spotify information about "I Want It That Way" by the Backstreet Boys. Again, no one wants that, so avoid this at all costs.
 
-4. Include screenshots, gifs or videos of the app functioning
+concert-this screenshot: /
 
 # Github:
 https://scottgoodrich.github.io/LIRI-Node_App/
