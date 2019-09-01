@@ -1,21 +1,4 @@
 
-// "movie-this"
-
-//  node liri.js movie-this '<movie name here>'`
-
-//      * This will output the following information to your terminal/bash window:
-
-//        * Title of the movie.
-//        * Year the movie came out.
-//        * IMDB Rating of the movie.
-//        * Rotten Tomatoes Rating of the movie.
-//        * Country where the movie was produced.
-//        * Language of the movie.
-//        * Plot of the movie.
-//        * Actors in the movie.
-
-//    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
-
 
 // "do-what-it-says"
 
@@ -182,6 +165,18 @@ if (search === "movie-this") {
             Movie("Mr. Nobody");   
         };
     };
+
+// <-------------------------do-what-it-says---------------------------->
+
+fs.readFile("random.txt", "utf8", function(error, data) {
+    if (error) {
+        return console.log(error);
+      }
+      var dataArr = data.split(",");
+      console.log(dataArr);
+      Spotify(dataArr);
+})
+
 
 module.exports = Movie;
 module.exports = Spotify;
