@@ -31,8 +31,8 @@ var Concert = function(artist) {
                 console.log("Made it this far");
 
                 var concertData = [];   
-                for (i = 0; i < json.length; i++) {
-                    console.log(json[i]);
+                for (i = 0; i < 20; i++) {
+                    // console.log(json[i]);
                     concertData.push(
                         "Venue: " + json[i].venue.name,
                         "Location: " + json[i].venue.city + ", " + json[i].venue.region +  ", " + json[i].venue.country,
@@ -156,15 +156,16 @@ if (search === "movie-this") {
     };
 
 // <-------------------------do-what-it-says---------------------------->
-
-fs.readFile("random.txt", "utf8", function(error, data) {
-    if (error) {
-        return console.log(error);
-      }
-      var dataArr = data.split(",");
-      console.log(dataArr);
-      Spotify(dataArr);
-})
+if (search === "do-what-it-says") {
+    fs.readFile("random.txt", "utf8", function(error, data) {
+        if (error) {
+            return console.log(error);
+        }
+        var dataArr = data.split(",");
+        console.log(dataArr);
+        Spotify(dataArr);
+    })
+}
 
 
 module.exports = Movie;
