@@ -1,6 +1,9 @@
 ### LIRI-Node-App
 
 The LIRI Node app enables the user to search for a musician's tour dates, find info about a song and search for movie information.
+To begin, in your terminal, npm install "axios", "moment" and "node-spotify-api".
+
+
 There are three main blocks of code, each dealing wih one functionality.
 
 # concert-this
