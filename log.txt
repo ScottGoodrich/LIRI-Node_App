@@ -1,0 +1,6661 @@
+Venue: undefined
+
+Location: undefined, undefined
+
+Date: NaN
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: NaN
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: NaN
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: NaN
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: NaN
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: NaN
+————————————————————————Venue: McMenamins Elks Temple
+
+Location: Tacoma, WA
+
+Date: NaN
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: NaN
+————————————————————————Venue: Rickshaw Theatre
+
+Location: Vancouver, 
+
+Date: NaN
+————————————————————————Venue: The Depot
+
+Location: Salt Lake City, UT
+
+Date: NaN
+————————————————————————Venue: Wonder Ballroom
+
+Location: Portland, OR
+
+Date: NaN
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+————————————————————————Venue: The Depot
+
+Location: Salt Lake City, UT
+
+Date: 2019-10-01T20:00:00
+————————————————————————Venue: Rickshaw Theatre
+
+Location: Vancouver, 
+
+Date: 2019-09-28T19:00:00
+————————————————————————Venue: Wonder Ballroom
+
+Location: Portland, OR
+
+Date: 2019-09-29T20:00:00
+————————————————————————Venue: McMenamins Elks Temple
+
+Location: Tacoma, WA
+
+Date: 2019-09-27T20:00:00
+————————————————————————Venue: McMenamins Elks Temple
+
+Location: Tacoma, WA
+
+Date: 2019-09-27T20:00:00
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+————————————————————————Venue: Rickshaw Theatre
+
+Location: Vancouver, 
+
+Date: 2019-09-28T19:00:00
+————————————————————————Venue: The Depot
+
+Location: Salt Lake City, UT
+
+Date: 2019-10-01T20:00:00
+————————————————————————Venue: Wonder Ballroom
+
+Location: Portland, OR
+
+Date: 2019-09-29T20:00:00
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+————————————————————————Venue: McMenamins Elks Temple
+
+Location: Tacoma, WA
+
+Date: 2019-09-27T20:00:00
+
+
+————————————————————————Venue: Rickshaw Theatre
+
+Location: Vancouver, 
+
+Date: 2019-09-28T19:00:00
+
+
+————————————————————————Venue: Wonder Ballroom
+
+Location: Portland, OR
+
+Date: 2019-09-29T20:00:00
+
+
+————————————————————————Venue: The Depot
+
+Location: Salt Lake City, UT
+
+Date: 2019-10-01T20:00:00
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+————————————————————————Venue: McMenamins Elks Temple
+
+Location: Tacoma, WA
+
+Date: 2019-09-27T20:00:00
+
+
+————————————————————————Venue: The Depot
+
+Location: Salt Lake City, UT
+
+Date: 2019-10-01T20:00:00
+
+
+————————————————————————Venue: Skyway Theatre
+
+Location: Minneapolis, MN
+
+Date: 2019-10-04T20:00:00
+
+
+————————————————————————Venue: House of Blues Chicago
+
+Location: Chicago, IL
+
+Date: 2019-10-05T20:00:00
+
+
+————————————————————————Venue: Saint Andrew’s Hall
+
+Location: Detroit, MI
+
+Date: 2019-10-06T20:00:00
+
+
+————————————————————————Venue: The Athenaeum Theatre
+
+Location: Columbus, OH
+
+Date: 2019-10-07T20:00:00
+
+
+————————————————————————Venue: Warsaw
+
+Location: Brooklyn, NY
+
+Date: 2019-10-09T20:00:00
+
+
+————————————————————————Venue: The Fillmore Silver Spring
+
+Location: Silver Spring, MD
+
+Date: 2019-10-10T20:00:00
+
+
+————————————————————————Venue: Starland Ballroom
+
+Location: Sayreville, NJ
+
+Date: 2019-10-11T20:00:00
+
+
+————————————————————————Venue: The Norva
+
+Location: Norfolk, VA
+
+Date: 2019-10-12T20:00:00
+
+
+————————————————————————Venue: Paradise Rock Club
+
+Location: Boston, MA
+
+Date: 2019-10-13T20:00:00
+
+
+————————————————————————Venue: Culture Room
+
+Location: Ft Lauderdale, FL
+
+Date: 2019-10-18T20:00:00
+
+
+————————————————————————Venue: The Ritz Ybor
+
+Location: Tampa, FL
+
+Date: 2019-10-17T20:00:00
+
+
+————————————————————————Venue: The Masquerade
+
+Location: Atlanta, GA
+
+Date: 2019-10-16T20:00:00
+
+
+————————————————————————Venue: St Augustine Amphitheatre
+
+Location: St Augustine, FL
+
+Date: 2019-10-19T20:00:00
+
+
+————————————————————————Venue: The Pressroom
+
+Location: Phoenix, AZ
+
+Date: 2019-10-23T20:00:00
+
+
+————————————————————————Venue: Gas Monkey Live!
+
+Location: Dallas, TX
+
+Date: 2019-10-21T20:00:00
+
+
+————————————————————————Venue: House of Blues Las Vegas
+
+Location: Las Vegas, NV
+
+Date: 2019-10-24T20:00:00
+
+
+————————————————————————Venue: The Underground
+
+Location: Charlotte, NC
+
+Date: 2019-10-15T20:00:00
+
+
+————————————————————————Venue: The Observatory
+
+Location: Santa Ana, CA
+
+Date: 2019-10-26T18:30:00
+
+
+————————————————————————Venue: The Observatory North Park
+
+Location: San Diego, CA
+
+Date: 2019-10-27T18:30:00
+
+
+————————————————————————Venue: O2 Academy Birmingham
+
+Location: Birmingham, 
+
+Date: 2019-11-06T19:00:00
+
+
+————————————————————————Venue: O2 Empire Shepherds Bush
+
+Location: London, 
+
+Date: 2019-11-07T19:00:00
+
+
+————————————————————————Venue: O2 Academy Leicester
+
+Location: Leicester, 
+
+Date: 2019-11-08T19:00:00
+
+
+————————————————————————Venue: O2 Academy Bournemouth
+
+Location: Bournemouth, 
+
+Date: 2019-11-09T19:00:00
+
+
+————————————————————————Venue: Petit Bain
+
+Location: Paris, 
+
+Date: 2019-11-11T19:00:00
+
+
+————————————————————————Venue: Live Club
+
+Location: Trezzo Sull'adda Mi, 
+
+Date: 2019-11-12T19:00:00
+
+
+————————————————————————Venue: Estragon
+
+Location: Bologna, 
+
+Date: 2019-11-14T19:00:00
+
+
+————————————————————————Venue: New Age Club
+
+Location: Roncade, 
+
+Date: 2019-11-15T19:00:00
+
+
+————————————————————————Venue: Alter Schlachthof Wels
+
+Location: Wels, 
+
+Date: 2019-11-17T19:00:00
+
+
+————————————————————————Venue: SO36
+
+Location: Berlin-altglienicke, 
+
+Date: 2019-11-19T19:00:00
+
+
+————————————————————————Venue: Center urbane kulture kino Šiška
+
+Location: Ljubljana, 
+
+Date: 2019-11-16T19:00:00
+
+
+————————————————————————Venue: Skaters Palace
+
+Location: Münster, 
+
+Date: 2019-11-20T19:00:00
+
+
+————————————————————————Venue: Melkweg
+
+Location: Amsterdam, 
+
+Date: 2019-11-21T19:00:00
+
+
+————————————————————————Venue: Rickshaw Theatre
+
+Location: Vancouver, 
+
+Date: 2019-09-28T19:00:00
+
+
+————————————————————————Venue: Wonder Ballroom
+
+Location: Portland, OR
+
+Date: 2019-09-29T20:00:00
+
+
+————————————————————————Venue: The Oriental Theater
+
+Location: Denver, CO
+
+Date: 2019-10-02T20:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA
+
+Date: 2019-08-31T19:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT
+
+Date: 2019-09-02T19:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI
+
+Date: 2019-09-10T19:00:00
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN
+
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL
+
+Date: 2019-09-13T19:00:43
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Saint Francisville, MO
+
+Date: 2019-09-14T19:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS
+
+Date: 2019-09-06T19:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Cincinnati, OH
+
+Date: 2019-09-16T19:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Camden, NJ
+
+Date: 2019-09-18T19:00:42
+
+
+————————————————————————Venue: Barclays Center
+
+Location: Brooklyn, NY
+
+Date: 2019-09-20T19:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Columbus, OH
+
+Date: 2019-09-22T19:00:00
+
+
+————————————————————————Venue: Aftershock 2019
+
+Location: Sacramento, CA
+
+Date: 2019-10-12T19:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS
+
+Date: 2019-09-08T19:00:34
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO
+
+Date: 2019-09-04T19:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA
+
+Date: 2019-09-07T19:00:00
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA
+
+Date: 2019-08-31T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT
+
+Date: 2019-09-02T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS
+
+Date: 2019-09-08T19:00:34
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI
+
+Date: 2019-09-10T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA
+
+Date: 2019-09-07T19:00:00
+
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL
+
+Date: 2019-09-13T19:00:43
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Saint Francisville, MO
+
+Date: 2019-09-14T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Cincinnati, OH
+
+Date: 2019-09-16T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Camden, NJ
+
+Date: 2019-09-18T19:00:42
+
+
+
+————————————————————————Venue: Barclays Center
+
+Location: Brooklyn, NY
+
+Date: 2019-09-20T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Columbus, OH
+
+Date: 2019-09-22T19:00:00
+
+
+
+————————————————————————Venue: Aftershock 2019
+
+Location: Sacramento, CA
+
+Date: 2019-10-12T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO
+
+Date: 2019-09-04T19:00:00
+
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS
+
+Date: 2019-09-06T19:00:00
+
+
+
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————function join() { [native code] }
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT
+
+Date: 2019-09-02T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS
+
+Date: 2019-09-08T19:00:34
+
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI
+
+Date: 2019-09-10T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA
+
+Date: 2019-08-31T19:00:00
+
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL
+
+Date: 2019-09-13T19:00:43
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Saint Francisville, MO
+
+Date: 2019-09-14T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Cincinnati, OH
+
+Date: 2019-09-16T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Camden, NJ
+
+Date: 2019-09-18T19:00:42
+
+
+
+————————————————————————Venue: Barclays Center
+
+Location: Brooklyn, NY
+
+Date: 2019-09-20T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Columbus, OH
+
+Date: 2019-09-22T19:00:00
+
+
+
+————————————————————————Venue: Aftershock 2019
+
+Location: Sacramento, CA
+
+Date: 2019-10-12T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA
+
+Date: 2019-09-07T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO
+
+Date: 2019-09-04T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS
+
+Date: 2019-09-06T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA
+
+Date: 2019-08-31T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO
+
+Date: 2019-09-04T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA
+
+Date: 2019-09-07T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS
+
+Date: 2019-09-08T19:00:34
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT
+
+Date: 2019-09-02T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI
+
+Date: 2019-09-10T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS
+
+Date: 2019-09-06T19:00:00
+
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Saint Francisville, MO
+
+Date: 2019-09-14T19:00:00
+
+
+
+————————————————————————Venue: Barclays Center
+
+Location: Brooklyn, NY
+
+Date: 2019-09-20T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Columbus, OH
+
+Date: 2019-09-22T19:00:00
+
+
+
+————————————————————————Venue: Aftershock 2019
+
+Location: Sacramento, CA
+
+Date: 2019-10-12T19:00:00
+
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL
+
+Date: 2019-09-13T19:00:43
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Cincinnati, OH
+
+Date: 2019-09-16T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Camden, NJ
+
+Date: 2019-09-18T19:00:42
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Wonder Ballroom
+
+Location: Portland, OR
+
+Date: 2019-09-29T20:00:00
+
+
+
+————————————————————————Venue: The Depot
+
+Location: Salt Lake City, UT
+
+Date: 2019-10-01T20:00:00
+
+
+
+————————————————————————Venue: The Oriental Theater
+
+Location: Denver, CO
+
+Date: 2019-10-02T20:00:00
+
+
+
+————————————————————————Venue: Skyway Theatre
+
+Location: Minneapolis, MN
+
+Date: 2019-10-04T20:00:00
+
+
+
+————————————————————————Venue: Saint Andrew’s Hall
+
+Location: Detroit, MI
+
+Date: 2019-10-06T20:00:00
+
+
+
+————————————————————————Venue: The Athenaeum Theatre
+
+Location: Columbus, OH
+
+Date: 2019-10-07T20:00:00
+
+
+
+————————————————————————Venue: Warsaw
+
+Location: Brooklyn, NY
+
+Date: 2019-10-09T20:00:00
+
+
+
+————————————————————————Venue: The Fillmore Silver Spring
+
+Location: Silver Spring, MD
+
+Date: 2019-10-10T20:00:00
+
+
+
+————————————————————————Venue: Starland Ballroom
+
+Location: Sayreville, NJ
+
+Date: 2019-10-11T20:00:00
+
+
+
+————————————————————————Venue: The Norva
+
+Location: Norfolk, VA
+
+Date: 2019-10-12T20:00:00
+
+
+
+————————————————————————Venue: The Underground
+
+Location: Charlotte, NC
+
+Date: 2019-10-15T20:00:00
+
+
+
+————————————————————————Venue: Paradise Rock Club
+
+Location: Boston, MA
+
+Date: 2019-10-13T20:00:00
+
+
+
+————————————————————————Venue: The Masquerade
+
+Location: Atlanta, GA
+
+Date: 2019-10-16T20:00:00
+
+
+
+————————————————————————Venue: The Ritz Ybor
+
+Location: Tampa, FL
+
+Date: 2019-10-17T20:00:00
+
+
+
+————————————————————————Venue: Culture Room
+
+Location: Ft Lauderdale, FL
+
+Date: 2019-10-18T20:00:00
+
+
+
+————————————————————————Venue: St Augustine Amphitheatre
+
+Location: St Augustine, FL
+
+Date: 2019-10-19T20:00:00
+
+
+
+————————————————————————Venue: Gas Monkey Live!
+
+Location: Dallas, TX
+
+Date: 2019-10-21T20:00:00
+
+
+
+————————————————————————Venue: The Pressroom
+
+Location: Phoenix, AZ
+
+Date: 2019-10-23T20:00:00
+
+
+
+————————————————————————Venue: The Observatory North Park
+
+Location: San Diego, CA
+
+Date: 2019-10-27T18:30:00
+
+
+
+————————————————————————Venue: The Observatory
+
+Location: Santa Ana, CA
+
+Date: 2019-10-26T18:30:00
+
+
+
+————————————————————————Venue: O2 Academy Birmingham
+
+Location: Birmingham, 
+
+Date: 2019-11-06T19:00:00
+
+
+
+————————————————————————Venue: O2 Empire Shepherds Bush
+
+Location: London, 
+
+Date: 2019-11-07T19:00:00
+
+
+
+————————————————————————Venue: O2 Academy Leicester
+
+Location: Leicester, 
+
+Date: 2019-11-08T19:00:00
+
+
+
+————————————————————————Venue: O2 Academy Bournemouth
+
+Location: Bournemouth, 
+
+Date: 2019-11-09T19:00:00
+
+
+
+————————————————————————Venue: House of Blues Las Vegas
+
+Location: Las Vegas, NV
+
+Date: 2019-10-24T20:00:00
+
+
+
+————————————————————————Venue: Petit Bain
+
+Location: Paris, 
+
+Date: 2019-11-11T19:00:00
+
+
+
+————————————————————————Venue: Live Club
+
+Location: Trezzo Sull'adda Mi, 
+
+Date: 2019-11-12T19:00:00
+
+
+
+————————————————————————Venue: Estragon
+
+Location: Bologna, 
+
+Date: 2019-11-14T19:00:00
+
+
+
+————————————————————————Venue: New Age Club
+
+Location: Roncade, 
+
+Date: 2019-11-15T19:00:00
+
+
+
+————————————————————————Venue: Center urbane kulture kino Šiška
+
+Location: Ljubljana, 
+
+Date: 2019-11-16T19:00:00
+
+
+
+————————————————————————Venue: Alter Schlachthof Wels
+
+Location: Wels, 
+
+Date: 2019-11-17T19:00:00
+
+
+
+————————————————————————Venue: SO36
+
+Location: Berlin-altglienicke, 
+
+Date: 2019-11-19T19:00:00
+
+
+
+————————————————————————Venue: Skaters Palace
+
+Location: Münster, 
+
+Date: 2019-11-20T19:00:00
+
+
+
+————————————————————————Venue: Melkweg
+
+Location: Amsterdam, 
+
+Date: 2019-11-21T19:00:00
+
+
+
+————————————————————————Venue: McMenamins Elks Temple
+
+Location: Tacoma, WA
+
+Date: 2019-09-27T20:00:00
+
+
+
+————————————————————————Venue: House of Blues Chicago
+
+Location: Chicago, IL
+
+Date: 2019-10-05T20:00:00
+
+
+
+————————————————————————Venue: Rickshaw Theatre
+
+Location: Vancouver, 
+
+Date: 2019-09-28T19:00:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: The Depot
+
+Location: Salt Lake City, UT
+
+Date: 2019-10-01T20:00:00
+
+
+
+————————————————————————Venue: The Oriental Theater
+
+Location: Denver, CO
+
+Date: 2019-10-02T20:00:00
+
+
+
+————————————————————————Venue: Saint Andrew’s Hall
+
+Location: Detroit, MI
+
+Date: 2019-10-06T20:00:00
+
+
+
+————————————————————————Venue: House of Blues Chicago
+
+Location: Chicago, IL
+
+Date: 2019-10-05T20:00:00
+
+
+
+————————————————————————Venue: Skyway Theatre
+
+Location: Minneapolis, MN
+
+Date: 2019-10-04T20:00:00
+
+
+
+————————————————————————Venue: The Athenaeum Theatre
+
+Location: Columbus, OH
+
+Date: 2019-10-07T20:00:00
+
+
+
+————————————————————————Venue: The Fillmore Silver Spring
+
+Location: Silver Spring, MD
+
+Date: 2019-10-10T20:00:00
+
+
+
+————————————————————————Venue: Warsaw
+
+Location: Brooklyn, NY
+
+Date: 2019-10-09T20:00:00
+
+
+
+————————————————————————Venue: Starland Ballroom
+
+Location: Sayreville, NJ
+
+Date: 2019-10-11T20:00:00
+
+
+
+————————————————————————Venue: The Norva
+
+Location: Norfolk, VA
+
+Date: 2019-10-12T20:00:00
+
+
+
+————————————————————————Venue: Paradise Rock Club
+
+Location: Boston, MA
+
+Date: 2019-10-13T20:00:00
+
+
+
+————————————————————————Venue: The Underground
+
+Location: Charlotte, NC
+
+Date: 2019-10-15T20:00:00
+
+
+
+————————————————————————Venue: The Masquerade
+
+Location: Atlanta, GA
+
+Date: 2019-10-16T20:00:00
+
+
+
+————————————————————————Venue: The Ritz Ybor
+
+Location: Tampa, FL
+
+Date: 2019-10-17T20:00:00
+
+
+
+————————————————————————Venue: Culture Room
+
+Location: Ft Lauderdale, FL
+
+Date: 2019-10-18T20:00:00
+
+
+
+————————————————————————Venue: St Augustine Amphitheatre
+
+Location: St Augustine, FL
+
+Date: 2019-10-19T20:00:00
+
+
+
+————————————————————————Venue: Gas Monkey Live!
+
+Location: Dallas, TX
+
+Date: 2019-10-21T20:00:00
+
+
+
+————————————————————————Venue: The Pressroom
+
+Location: Phoenix, AZ
+
+Date: 2019-10-23T20:00:00
+
+
+
+————————————————————————Venue: House of Blues Las Vegas
+
+Location: Las Vegas, NV
+
+Date: 2019-10-24T20:00:00
+
+
+
+————————————————————————Venue: The Observatory
+
+Location: Santa Ana, CA
+
+Date: 2019-10-26T18:30:00
+
+
+
+————————————————————————Venue: O2 Empire Shepherds Bush
+
+Location: London, 
+
+Date: 2019-11-07T19:00:00
+
+
+
+————————————————————————Venue: O2 Academy Birmingham
+
+Location: Birmingham, 
+
+Date: 2019-11-06T19:00:00
+
+
+
+————————————————————————Venue: The Observatory North Park
+
+Location: San Diego, CA
+
+Date: 2019-10-27T18:30:00
+
+
+
+————————————————————————Venue: O2 Academy Leicester
+
+Location: Leicester, 
+
+Date: 2019-11-08T19:00:00
+
+
+
+————————————————————————Venue: O2 Academy Bournemouth
+
+Location: Bournemouth, 
+
+Date: 2019-11-09T19:00:00
+
+
+
+————————————————————————Venue: Petit Bain
+
+Location: Paris, 
+
+Date: 2019-11-11T19:00:00
+
+
+
+————————————————————————Venue: Live Club
+
+Location: Trezzo Sull'adda Mi, 
+
+Date: 2019-11-12T19:00:00
+
+
+
+————————————————————————Venue: Estragon
+
+Location: Bologna, 
+
+Date: 2019-11-14T19:00:00
+
+
+
+————————————————————————Venue: New Age Club
+
+Location: Roncade, 
+
+Date: 2019-11-15T19:00:00
+
+
+
+————————————————————————Venue: Center urbane kulture kino Šiška
+
+Location: Ljubljana, 
+
+Date: 2019-11-16T19:00:00
+
+
+
+————————————————————————Venue: Alter Schlachthof Wels
+
+Location: Wels, 
+
+Date: 2019-11-17T19:00:00
+
+
+
+————————————————————————Venue: SO36
+
+Location: Berlin-altglienicke, 
+
+Date: 2019-11-19T19:00:00
+
+
+
+————————————————————————Venue: Skaters Palace
+
+Location: Münster, 
+
+Date: 2019-11-20T19:00:00
+
+
+
+————————————————————————Venue: Melkweg
+
+Location: Amsterdam, 
+
+Date: 2019-11-21T19:00:00
+
+
+
+————————————————————————Venue: Rickshaw Theatre
+
+Location: Vancouver, 
+
+Date: 2019-09-28T19:00:00
+
+
+
+————————————————————————Venue: Wonder Ballroom
+
+Location: Portland, OR
+
+Date: 2019-09-29T20:00:00
+
+
+
+————————————————————————Venue: McMenamins Elks Temple
+
+Location: Tacoma, WA
+
+Date: 2019-09-27T20:00:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Wonder Ballroom
+
+Location: Portland, OR
+
+Date: 2019-09-29T20:00:00
+
+
+
+————————————————————————Venue: Skyway Theatre
+
+Location: Minneapolis, MN
+
+Date: 2019-10-04T20:00:00
+
+
+
+————————————————————————Venue: The Depot
+
+Location: Salt Lake City, UT
+
+Date: 2019-10-01T20:00:00
+
+
+
+————————————————————————Venue: House of Blues Chicago
+
+Location: Chicago, IL
+
+Date: 2019-10-05T20:00:00
+
+
+
+————————————————————————Venue: Saint Andrew’s Hall
+
+Location: Detroit, MI
+
+Date: 2019-10-06T20:00:00
+
+
+
+————————————————————————Venue: The Athenaeum Theatre
+
+Location: Columbus, OH
+
+Date: 2019-10-07T20:00:00
+
+
+
+————————————————————————Venue: Warsaw
+
+Location: Brooklyn, NY
+
+Date: 2019-10-09T20:00:00
+
+
+
+————————————————————————Venue: The Fillmore Silver Spring
+
+Location: Silver Spring, MD
+
+Date: 2019-10-10T20:00:00
+
+
+
+————————————————————————Venue: Starland Ballroom
+
+Location: Sayreville, NJ
+
+Date: 2019-10-11T20:00:00
+
+
+
+————————————————————————Venue: The Norva
+
+Location: Norfolk, VA
+
+Date: 2019-10-12T20:00:00
+
+
+
+————————————————————————Venue: The Underground
+
+Location: Charlotte, NC
+
+Date: 2019-10-15T20:00:00
+
+
+
+————————————————————————Venue: Paradise Rock Club
+
+Location: Boston, MA
+
+Date: 2019-10-13T20:00:00
+
+
+
+————————————————————————Venue: The Masquerade
+
+Location: Atlanta, GA
+
+Date: 2019-10-16T20:00:00
+
+
+
+————————————————————————Venue: The Ritz Ybor
+
+Location: Tampa, FL
+
+Date: 2019-10-17T20:00:00
+
+
+
+————————————————————————Venue: Culture Room
+
+Location: Ft Lauderdale, FL
+
+Date: 2019-10-18T20:00:00
+
+
+
+————————————————————————Venue: St Augustine Amphitheatre
+
+Location: St Augustine, FL
+
+Date: 2019-10-19T20:00:00
+
+
+
+————————————————————————Venue: Gas Monkey Live!
+
+Location: Dallas, TX
+
+Date: 2019-10-21T20:00:00
+
+
+
+————————————————————————Venue: The Pressroom
+
+Location: Phoenix, AZ
+
+Date: 2019-10-23T20:00:00
+
+
+
+————————————————————————Venue: House of Blues Las Vegas
+
+Location: Las Vegas, NV
+
+Date: 2019-10-24T20:00:00
+
+
+
+————————————————————————Venue: The Observatory
+
+Location: Santa Ana, CA
+
+Date: 2019-10-26T18:30:00
+
+
+
+————————————————————————Venue: The Observatory North Park
+
+Location: San Diego, CA
+
+Date: 2019-10-27T18:30:00
+
+
+
+————————————————————————Venue: O2 Academy Birmingham
+
+Location: Birmingham, 
+
+Date: 2019-11-06T19:00:00
+
+
+
+————————————————————————Venue: O2 Empire Shepherds Bush
+
+Location: London, 
+
+Date: 2019-11-07T19:00:00
+
+
+
+————————————————————————Venue: O2 Academy Leicester
+
+Location: Leicester, 
+
+Date: 2019-11-08T19:00:00
+
+
+
+————————————————————————Venue: O2 Academy Bournemouth
+
+Location: Bournemouth, 
+
+Date: 2019-11-09T19:00:00
+
+
+
+————————————————————————Venue: Petit Bain
+
+Location: Paris, 
+
+Date: 2019-11-11T19:00:00
+
+
+
+————————————————————————Venue: Live Club
+
+Location: Trezzo Sull'adda Mi, 
+
+Date: 2019-11-12T19:00:00
+
+
+
+————————————————————————Venue: Estragon
+
+Location: Bologna, 
+
+Date: 2019-11-14T19:00:00
+
+
+
+————————————————————————Venue: New Age Club
+
+Location: Roncade, 
+
+Date: 2019-11-15T19:00:00
+
+
+
+————————————————————————Venue: Center urbane kulture kino Šiška
+
+Location: Ljubljana, 
+
+Date: 2019-11-16T19:00:00
+
+
+
+————————————————————————Venue: Alter Schlachthof Wels
+
+Location: Wels, 
+
+Date: 2019-11-17T19:00:00
+
+
+
+————————————————————————Venue: SO36
+
+Location: Berlin-altglienicke, 
+
+Date: 2019-11-19T19:00:00
+
+
+
+————————————————————————Venue: Melkweg
+
+Location: Amsterdam, 
+
+Date: 2019-11-21T19:00:00
+
+
+
+————————————————————————Venue: Skaters Palace
+
+Location: Münster, 
+
+Date: 2019-11-20T19:00:00
+
+
+
+————————————————————————Venue: Rickshaw Theatre
+
+Location: Vancouver, 
+
+Date: 2019-09-28T19:00:00
+
+
+
+————————————————————————Venue: McMenamins Elks Temple
+
+Location: Tacoma, WA
+
+Date: 2019-09-27T20:00:00
+
+
+
+————————————————————————Venue: The Oriental Theater
+
+Location: Denver, CO
+
+Date: 2019-10-02T20:00:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: McMenamins Elks Temple
+
+Location: Tacoma, WA
+
+Date: 2019-09-27T20:00:00
+
+
+
+————————————————————————Venue: Wonder Ballroom
+
+Location: Portland, OR
+
+Date: 2019-09-29T20:00:00
+
+
+
+————————————————————————Venue: Skyway Theatre
+
+Location: Minneapolis, MN
+
+Date: 2019-10-04T20:00:00
+
+
+
+————————————————————————Venue: House of Blues Chicago
+
+Location: Chicago, IL
+
+Date: 2019-10-05T20:00:00
+
+
+
+————————————————————————Venue: Saint Andrew’s Hall
+
+Location: Detroit, MI
+
+Date: 2019-10-06T20:00:00
+
+
+
+————————————————————————Venue: The Athenaeum Theatre
+
+Location: Columbus, OH
+
+Date: 2019-10-07T20:00:00
+
+
+
+————————————————————————Venue: Warsaw
+
+Location: Brooklyn, NY
+
+Date: 2019-10-09T20:00:00
+
+
+
+————————————————————————Venue: The Fillmore Silver Spring
+
+Location: Silver Spring, MD
+
+Date: 2019-10-10T20:00:00
+
+
+
+————————————————————————Venue: Starland Ballroom
+
+Location: Sayreville, NJ
+
+Date: 2019-10-11T20:00:00
+
+
+
+————————————————————————Venue: The Norva
+
+Location: Norfolk, VA
+
+Date: 2019-10-12T20:00:00
+
+
+
+————————————————————————Venue: Paradise Rock Club
+
+Location: Boston, MA
+
+Date: 2019-10-13T20:00:00
+
+
+
+————————————————————————Venue: The Underground
+
+Location: Charlotte, NC
+
+Date: 2019-10-15T20:00:00
+
+
+
+————————————————————————Venue: The Masquerade
+
+Location: Atlanta, GA
+
+Date: 2019-10-16T20:00:00
+
+
+
+————————————————————————Venue: The Ritz Ybor
+
+Location: Tampa, FL
+
+Date: 2019-10-17T20:00:00
+
+
+
+————————————————————————Venue: Culture Room
+
+Location: Ft Lauderdale, FL
+
+Date: 2019-10-18T20:00:00
+
+
+
+————————————————————————Venue: St Augustine Amphitheatre
+
+Location: St Augustine, FL
+
+Date: 2019-10-19T20:00:00
+
+
+
+————————————————————————Venue: Gas Monkey Live!
+
+Location: Dallas, TX
+
+Date: 2019-10-21T20:00:00
+
+
+
+————————————————————————Venue: House of Blues Las Vegas
+
+Location: Las Vegas, NV
+
+Date: 2019-10-24T20:00:00
+
+
+
+————————————————————————Venue: The Pressroom
+
+Location: Phoenix, AZ
+
+Date: 2019-10-23T20:00:00
+
+
+
+————————————————————————Venue: The Observatory
+
+Location: Santa Ana, CA
+
+Date: 2019-10-26T18:30:00
+
+
+
+————————————————————————Venue: The Observatory North Park
+
+Location: San Diego, CA
+
+Date: 2019-10-27T18:30:00
+
+
+
+————————————————————————Venue: O2 Academy Birmingham
+
+Location: Birmingham, 
+
+Date: 2019-11-06T19:00:00
+
+
+
+————————————————————————Venue: Rickshaw Theatre
+
+Location: Vancouver, 
+
+Date: 2019-09-28T19:00:00
+
+
+
+————————————————————————Venue: The Depot
+
+Location: Salt Lake City, UT
+
+Date: 2019-10-01T20:00:00
+
+
+
+————————————————————————Venue: The Oriental Theater
+
+Location: Denver, CO
+
+Date: 2019-10-02T20:00:00
+
+
+
+————————————————————————Venue: O2 Empire Shepherds Bush
+
+Location: London, 
+
+Date: 2019-11-07T19:00:00
+
+
+
+————————————————————————Venue: O2 Academy Leicester
+
+Location: Leicester, 
+
+Date: 2019-11-08T19:00:00
+
+
+
+————————————————————————Venue: O2 Academy Bournemouth
+
+Location: Bournemouth, 
+
+Date: 2019-11-09T19:00:00
+
+
+
+————————————————————————Venue: New Age Club
+
+Location: Roncade, 
+
+Date: 2019-11-15T19:00:00
+
+
+
+————————————————————————Venue: Live Club
+
+Location: Trezzo Sull'adda Mi, 
+
+Date: 2019-11-12T19:00:00
+
+
+
+————————————————————————Venue: Estragon
+
+Location: Bologna, 
+
+Date: 2019-11-14T19:00:00
+
+
+
+————————————————————————Venue: Petit Bain
+
+Location: Paris, 
+
+Date: 2019-11-11T19:00:00
+
+
+
+————————————————————————Venue: Center urbane kulture kino Šiška
+
+Location: Ljubljana, 
+
+Date: 2019-11-16T19:00:00
+
+
+
+————————————————————————Venue: Alter Schlachthof Wels
+
+Location: Wels, 
+
+Date: 2019-11-17T19:00:00
+
+
+
+————————————————————————Venue: SO36
+
+Location: Berlin-altglienicke, 
+
+Date: 2019-11-19T19:00:00
+
+
+
+————————————————————————Venue: Skaters Palace
+
+Location: Münster, 
+
+Date: 2019-11-20T19:00:00
+
+
+
+————————————————————————Venue: Melkweg
+
+Location: Amsterdam, 
+
+Date: 2019-11-21T19:00:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, WA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, UT
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, IL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MI
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OH
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NY
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MD
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NJ
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, VA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NC
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, GA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, TX
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, AZ
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NV
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OR
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CO
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MN
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, UT
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MI
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, IL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MN
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OH
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MD
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NY
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CO
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NJ
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, VA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NC
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, GA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, TX
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, AZ
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NV
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, WA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OR
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OR
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, UT
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, WA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, IL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CO
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MI
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, VA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NJ
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NC
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, GA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MD
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, TX
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, AZ
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NV
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MN
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OH
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NY
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, WA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CO
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MN
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, IL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MI
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NY
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OH
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MD
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NJ
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, VA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NC
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, GA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, FL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, TX
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, UT
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, AZ
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OR
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, NV
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, UT
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OR
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, WA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, IL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OH
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MI
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CO
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MN
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, WA
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, CO
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MN
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, IL
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, MI
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OH
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, UT
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, OR
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: Envol et Macadam
+
+Location: Quebec City, 
+
+Date: 2019-09-06T17:30:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA
+
+Date: 2019-08-31T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA
+
+Date: 2019-09-07T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS
+
+Date: 2019-09-08T19:00:34
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI
+
+Date: 2019-09-10T19:00:00
+
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL
+
+Date: 2019-09-13T19:00:43
+
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS
+
+Date: 2019-09-06T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT
+
+Date: 2019-09-02T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO
+
+Date: 2019-09-04T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS
+
+Date: 2019-09-06T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA
+
+Date: 2019-09-07T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS
+
+Date: 2019-09-08T19:00:34
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI
+
+Date: 2019-09-10T19:00:00
+
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL
+
+Date: 2019-09-13T19:00:43
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA
+
+Date: 2019-08-31T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO
+
+Date: 2019-09-04T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT
+
+Date: 2019-09-02T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA
+
+Date: 2019-08-31T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA
+
+Date: 2019-09-07T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS
+
+Date: 2019-09-08T19:00:34
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI
+
+Date: 2019-09-10T19:00:00
+
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL
+
+Date: 2019-09-13T19:00:43
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS
+
+Date: 2019-09-06T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT
+
+Date: 2019-09-02T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO
+
+Date: 2019-09-04T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT
+
+Date: 2019-09-02T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS
+
+Date: 2019-09-06T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI
+
+Date: 2019-09-10T19:00:00
+
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA
+
+Date: 2019-08-31T19:00:00
+
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL
+
+Date: 2019-09-13T19:00:43
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS
+
+Date: 2019-09-08T19:00:34
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO
+
+Date: 2019-09-04T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA
+
+Date: 2019-09-07T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA
+
+Date: 2019-08-31T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT
+
+Date: 2019-09-02T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO
+
+Date: 2019-09-04T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS
+
+Date: 2019-09-06T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA
+
+Date: 2019-09-07T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS
+
+Date: 2019-09-08T19:00:34
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI
+
+Date: 2019-09-10T19:00:00
+
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL
+
+Date: 2019-09-13T19:00:43
+
+
+
+————————————————————————Venue: Butanta Tropical
+
+Location: Passo De Sao Marcos, 
+
+Date: 2019-09-07T18:00:00
+
+
+
+————————————————————————Venue: Blondie
+
+Location: Santiago, 
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: Circo Voador 
+
+Location: Monte Alegre De Minas, 
+
+Date: 2019-09-08T18:00:00
+
+
+
+————————————————————————Venue: El Plaza Condesa
+
+Location: Mexico City, 
+
+Date: 2019-09-14T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: St.petersburg, 
+
+Date: 2019-09-24T18:00:00
+
+
+
+————————————————————————Venue: Auditorio Lumiere
+
+Location: Bogota, 
+
+Date: 2019-09-15T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Moscow, 
+
+Date: 2019-09-25T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Leipzig, 
+
+Date: 2019-09-27T18:00:00
+
+
+
+————————————————————————Venue: El Teatrito 
+
+Location: Buenos Aires, 
+
+Date: 2019-09-10T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Hamburg, 
+
+Date: 2019-09-28T18:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA
+
+Date: 2019-08-31T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA
+
+Date: 2019-09-07T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS
+
+Date: 2019-09-08T19:00:34
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI
+
+Date: 2019-09-10T19:00:00
+
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL
+
+Date: 2019-09-13T19:00:43
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS
+
+Date: 2019-09-06T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT
+
+Date: 2019-09-02T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO
+
+Date: 2019-09-04T19:00:00
+
+
+
+————————————————————————Venue: Butanta Tropical
+
+Location: Passo De Sao Marcos, , Brazil
+
+Date: 2019-09-07T18:00:00
+
+
+
+————————————————————————Venue: Circo Voador 
+
+Location: Monte Alegre De Minas, , Brazil
+
+Date: 2019-09-08T18:00:00
+
+
+
+————————————————————————Venue: El Teatrito 
+
+Location: Buenos Aires, , Argentina
+
+Date: 2019-09-10T18:00:00
+
+
+
+————————————————————————Venue: Blondie
+
+Location: Santiago, , Chile
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: El Plaza Condesa
+
+Location: Mexico City, , Mexico
+
+Date: 2019-09-14T18:00:00
+
+
+
+————————————————————————Venue: Auditorio Lumiere
+
+Location: Bogota, , Colombia
+
+Date: 2019-09-15T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Moscow, , Russia
+
+Date: 2019-09-25T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Leipzig, , Germany
+
+Date: 2019-09-27T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Hamburg, , Germany
+
+Date: 2019-09-28T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: St.petersburg, , Russia
+
+Date: 2019-09-24T18:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Ridgefield, WA, United States
+
+Date: 2019-08-30T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Seattle, WA, United States
+
+Date: 2019-08-31T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Salt Lake City, UT, United States
+
+Date: 2019-09-02T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Denver, CO, United States
+
+Date: 2019-09-04T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Wichita, KS, United States
+
+Date: 2019-09-06T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Council Bluffs, IA, United States
+
+Date: 2019-09-07T19:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Bonner Springs, KS, United States
+
+Date: 2019-09-08T19:00:34
+
+
+
+————————————————————————Venue: Riot Fest
+
+Location: Chicago, IL, United States
+
+Date: 2019-09-13T19:00:43
+
+
+
+————————————————————————Venue: Xcel Energy Center
+
+Location: St Paul, MN, United States
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: blink-182 & Lil Wayne Tour 2019
+
+Location: Detroit, MI, United States
+
+Date: 2019-09-10T19:00:00
+
+
+
+————————————————————————Venue: Butanta Tropical
+
+Location: Passo De Sao Marcos, , Brazil
+
+Date: 2019-09-07T18:00:00
+
+
+
+————————————————————————Venue: Circo Voador 
+
+Location: Monte Alegre De Minas, , Brazil
+
+Date: 2019-09-08T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: St.petersburg, , Russia
+
+Date: 2019-09-24T18:00:00
+
+
+
+————————————————————————Venue: El Plaza Condesa
+
+Location: Mexico City, , Mexico
+
+Date: 2019-09-14T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Moscow, , Russia
+
+Date: 2019-09-25T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Leipzig, , Germany
+
+Date: 2019-09-27T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Hamburg, , Germany
+
+Date: 2019-09-28T18:00:00
+
+
+
+————————————————————————Venue: Auditorio Lumiere
+
+Location: Bogota, , Colombia
+
+Date: 2019-09-15T18:00:00
+
+
+
+————————————————————————Venue: El Teatrito 
+
+Location: Buenos Aires, , Argentina
+
+Date: 2019-09-10T18:00:00
+
+
+
+————————————————————————Venue: Blondie
+
+Location: Santiago, , Chile
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: Butanta Tropical
+
+Location: Passo De Sao Marcos, , Brazil
+
+Date: 2019-09-07T18:00:00
+
+
+
+————————————————————————Venue: Circo Voador 
+
+Location: Monte Alegre De Minas, , Brazil
+
+Date: 2019-09-08T18:00:00
+
+
+
+————————————————————————Venue: El Plaza Condesa
+
+Location: Mexico City, , Mexico
+
+Date: 2019-09-14T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: St.petersburg, , Russia
+
+Date: 2019-09-24T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Moscow, , Russia
+
+Date: 2019-09-25T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Leipzig, , Germany
+
+Date: 2019-09-27T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Hamburg, , Germany
+
+Date: 2019-09-28T18:00:00
+
+
+
+————————————————————————Venue: Auditorio Lumiere
+
+Location: Bogota, , Colombia
+
+Date: 2019-09-15T18:00:00
+
+
+
+————————————————————————Venue: El Teatrito 
+
+Location: Buenos Aires, , Argentina
+
+Date: 2019-09-10T18:00:00
+
+
+
+————————————————————————Venue: Blondie
+
+Location: Santiago, , Chile
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: Butanta Tropical
+
+Location: Passo De Sao Marcos, , Brazil
+
+Date: 2019-09-07T18:00:00
+
+
+
+————————————————————————Venue: Circo Voador 
+
+Location: Monte Alegre De Minas, , Brazil
+
+Date: 2019-09-08T18:00:00
+
+
+
+————————————————————————Venue: El Plaza Condesa
+
+Location: Mexico City, , Mexico
+
+Date: 2019-09-14T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: St.petersburg, , Russia
+
+Date: 2019-09-24T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Leipzig, , Germany
+
+Date: 2019-09-27T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Moscow, , Russia
+
+Date: 2019-09-25T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+
+Location: Hamburg, , Germany
+
+Date: 2019-09-28T18:00:00
+
+
+
+————————————————————————Venue: El Teatrito 
+
+Location: Buenos Aires, , Argentina
+
+Date: 2019-09-10T18:00:00
+
+
+
+————————————————————————Venue: Auditorio Lumiere
+
+Location: Bogota, , Colombia
+
+Date: 2019-09-15T18:00:00
+
+
+
+————————————————————————Venue: Blondie
+
+Location: Santiago, , Chile
+
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Oslo, , Norway
+Date: 2019-09-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Berlin, , Germany
+Date: 2019-10-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Prague, , Czech Rep
+Date: 2019-10-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Copenhagen, , Denmark
+Date: 2019-10-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Munich, , Germany
+Date: 2019-10-05T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Stockholm, , Sweden
+Date: 2019-10-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Vienna, , Austria
+Date: 2019-10-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Budapest, , Hungary
+Date: 2019-10-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Milan, , Italy
+Date: 2019-10-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Zürich, , Switzerland
+Date: 2019-10-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Grenoble, , France
+Date: 2019-10-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Barcelona, , Spain
+Date: 2019-10-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Madrid, , Spain
+Date: 2019-10-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Paris, , France
+Date: 2019-10-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Brussels, , Belgium
+Date: 2019-10-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Tilburg, , Netherlands
+Date: 2019-10-17T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Saarbrucken, , Germany
+Date: 2019-10-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Cologne, , Germany
+Date: 2019-10-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Las Vegas, NV, United States
+Date: 2019-11-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Phoenix, AZ, United States
+Date: 2019-11-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Dallas, TX, United States
+Date: 2019-11-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Houston, TX, United States
+Date: 2019-11-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: New Orleans, LA, United States
+Date: 2019-11-21T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Atlanta, GA, United States
+Date: 2019-11-22T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Charlotte, NC, United States
+Date: 2019-11-23T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Wantagh, NY, United States
+Date: 2019-11-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Boston, MA, United States
+Date: 2019-11-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Philadelphia, PA, United States
+Date: 2019-11-26T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019
+Location: Pittsburgh, PA, United States
+Date: 2019-11-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Buffalo, NY, United States
+Date: 2019-11-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Silver Spring, MD, United States
+Date: 2019-11-29T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Reading, PA, United States
+Date: 2019-12-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Cleveland, OH, United States
+Date: 2019-12-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Chicago, IL, United States
+Date: 2019-12-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Minneapolis, MN, United States
+Date: 2019-12-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Denver, CO, United States
+Date: 2019-12-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Salt Lake City, UT, United States
+Date: 2019-12-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Portland, OR, United States
+Date: 2019-12-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Seattle, WA, United States
+Date: 2019-12-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Sacramento, CA, United States
+Date: 2019-12-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Ventura, CA, United States
+Date: 2019-12-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Los Angeles, CA, United States
+Date: 2019-12-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: San Diego, CA, United States
+Date: 2019-12-14T18:00:00
+
+
+————————————————————————Venue: Regent Theater DTLA
+Location: Los Angeles, CA, United States
+Date: 2019-12-15T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Oslo, , Norway
+Date: 2019-09-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Stockholm, , Sweden
+Date: 2019-10-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Copenhagen, , Denmark
+Date: 2019-10-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Berlin, , Germany
+Date: 2019-10-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Prague, , Czech Rep
+Date: 2019-10-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Munich, , Germany
+Date: 2019-10-05T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Vienna, , Austria
+Date: 2019-10-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Milan, , Italy
+Date: 2019-10-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Zürich, , Switzerland
+Date: 2019-10-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Grenoble, , France
+Date: 2019-10-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Budapest, , Hungary
+Date: 2019-10-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Barcelona, , Spain
+Date: 2019-10-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Madrid, , Spain
+Date: 2019-10-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Paris, , France
+Date: 2019-10-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Brussels, , Belgium
+Date: 2019-10-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Tilburg, , Netherlands
+Date: 2019-10-17T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Saarbrucken, , Germany
+Date: 2019-10-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Cologne, , Germany
+Date: 2019-10-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Las Vegas, NV, United States
+Date: 2019-11-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Phoenix, AZ, United States
+Date: 2019-11-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Dallas, TX, United States
+Date: 2019-11-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Houston, TX, United States
+Date: 2019-11-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: New Orleans, LA, United States
+Date: 2019-11-21T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Atlanta, GA, United States
+Date: 2019-11-22T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Wantagh, NY, United States
+Date: 2019-11-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Boston, MA, United States
+Date: 2019-11-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Charlotte, NC, United States
+Date: 2019-11-23T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Philadelphia, PA, United States
+Date: 2019-11-26T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019
+Location: Pittsburgh, PA, United States
+Date: 2019-11-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Silver Spring, MD, United States
+Date: 2019-11-29T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Buffalo, NY, United States
+Date: 2019-11-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Reading, PA, United States
+Date: 2019-12-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Cleveland, OH, United States
+Date: 2019-12-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Chicago, IL, United States
+Date: 2019-12-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Minneapolis, MN, United States
+Date: 2019-12-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Denver, CO, United States
+Date: 2019-12-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Salt Lake City, UT, United States
+Date: 2019-12-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Seattle, WA, United States
+Date: 2019-12-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Portland, OR, United States
+Date: 2019-12-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Sacramento, CA, United States
+Date: 2019-12-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Ventura, CA, United States
+Date: 2019-12-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Los Angeles, CA, United States
+Date: 2019-12-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: San Diego, CA, United States
+Date: 2019-12-14T18:00:00
+
+
+————————————————————————Venue: Regent Theater DTLA
+Location: Los Angeles, CA, United States
+Date: 2019-12-15T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Oslo, , Norway
+Date: 2019-09-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Stockholm, , Sweden
+Date: 2019-10-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Copenhagen, , Denmark
+Date: 2019-10-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Berlin, , Germany
+Date: 2019-10-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Prague, , Czech Rep
+Date: 2019-10-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Munich, , Germany
+Date: 2019-10-05T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Vienna, , Austria
+Date: 2019-10-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Budapest, , Hungary
+Date: 2019-10-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Milan, , Italy
+Date: 2019-10-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Zürich, , Switzerland
+Date: 2019-10-10T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Grenoble, , France
+Date: 2019-10-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Madrid, , Spain
+Date: 2019-10-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Paris, , France
+Date: 2019-10-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Tilburg, , Netherlands
+Date: 2019-10-17T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Saarbrucken, , Germany
+Date: 2019-10-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Brussels, , Belgium
+Date: 2019-10-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Cologne, , Germany
+Date: 2019-10-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Las Vegas, NV, United States
+Date: 2019-11-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Phoenix, AZ, United States
+Date: 2019-11-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Dallas, TX, United States
+Date: 2019-11-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Houston, TX, United States
+Date: 2019-11-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: New Orleans, LA, United States
+Date: 2019-11-21T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Atlanta, GA, United States
+Date: 2019-11-22T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Charlotte, NC, United States
+Date: 2019-11-23T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Wantagh, NY, United States
+Date: 2019-11-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Silver Spring, MD, United States
+Date: 2019-11-29T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Philadelphia, PA, United States
+Date: 2019-11-26T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019
+Location: Pittsburgh, PA, United States
+Date: 2019-11-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Buffalo, NY, United States
+Date: 2019-11-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Boston, MA, United States
+Date: 2019-11-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Cleveland, OH, United States
+Date: 2019-12-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Reading, PA, United States
+Date: 2019-12-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Chicago, IL, United States
+Date: 2019-12-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Minneapolis, MN, United States
+Date: 2019-12-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Denver, CO, United States
+Date: 2019-12-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Salt Lake City, UT, United States
+Date: 2019-12-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Seattle, WA, United States
+Date: 2019-12-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Portland, OR, United States
+Date: 2019-12-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Sacramento, CA, United States
+Date: 2019-12-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Ventura, CA, United States
+Date: 2019-12-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Los Angeles, CA, United States
+Date: 2019-12-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: San Diego, CA, United States
+Date: 2019-12-14T18:00:00
+
+
+————————————————————————Venue: Regent Theater DTLA
+Location: Los Angeles, CA, United States
+Date: 2019-12-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Barcelona, , Spain
+Date: 2019-10-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Oslo, , Norway
+Date: 2019-09-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Stockholm, , Sweden
+Date: 2019-10-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Copenhagen, , Denmark
+Date: 2019-10-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Berlin, , Germany
+Date: 2019-10-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Prague, , Czech Rep
+Date: 2019-10-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Munich, , Germany
+Date: 2019-10-05T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Vienna, , Austria
+Date: 2019-10-06T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Milan, , Italy
+Date: 2019-10-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Zürich, , Switzerland
+Date: 2019-10-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Grenoble, , France
+Date: 2019-10-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Barcelona, , Spain
+Date: 2019-10-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Madrid, , Spain
+Date: 2019-10-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Paris, , France
+Date: 2019-10-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Brussels, , Belgium
+Date: 2019-10-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Cologne, , Germany
+Date: 2019-10-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Tilburg, , Netherlands
+Date: 2019-10-17T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Saarbrucken, , Germany
+Date: 2019-10-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Phoenix, AZ, United States
+Date: 2019-11-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Dallas, TX, United States
+Date: 2019-11-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Las Vegas, NV, United States
+Date: 2019-11-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Houston, TX, United States
+Date: 2019-11-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: New Orleans, LA, United States
+Date: 2019-11-21T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Atlanta, GA, United States
+Date: 2019-11-22T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Charlotte, NC, United States
+Date: 2019-11-23T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Wantagh, NY, United States
+Date: 2019-11-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Boston, MA, United States
+Date: 2019-11-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Philadelphia, PA, United States
+Date: 2019-11-26T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019
+Location: Pittsburgh, PA, United States
+Date: 2019-11-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Silver Spring, MD, United States
+Date: 2019-11-29T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Reading, PA, United States
+Date: 2019-12-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Buffalo, NY, United States
+Date: 2019-11-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Cleveland, OH, United States
+Date: 2019-12-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Chicago, IL, United States
+Date: 2019-12-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Minneapolis, MN, United States
+Date: 2019-12-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Denver, CO, United States
+Date: 2019-12-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Salt Lake City, UT, United States
+Date: 2019-12-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Seattle, WA, United States
+Date: 2019-12-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Ventura, CA, United States
+Date: 2019-12-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Los Angeles, CA, United States
+Date: 2019-12-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Portland, OR, United States
+Date: 2019-12-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: San Diego, CA, United States
+Date: 2019-12-14T18:00:00
+
+
+————————————————————————Venue: Regent Theater DTLA
+Location: Los Angeles, CA, United States
+Date: 2019-12-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Sacramento, CA, United States
+Date: 2019-12-11T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Budapest, , Hungary
+Date: 2019-10-07T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Oslo, , Norway
+Date: 2019-09-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Stockholm, , Sweden
+Date: 2019-10-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Copenhagen, , Denmark
+Date: 2019-10-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Berlin, , Germany
+Date: 2019-10-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Prague, , Czech Rep
+Date: 2019-10-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Munich, , Germany
+Date: 2019-10-05T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Vienna, , Austria
+Date: 2019-10-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Milan, , Italy
+Date: 2019-10-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Budapest, , Hungary
+Date: 2019-10-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Zürich, , Switzerland
+Date: 2019-10-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Grenoble, , France
+Date: 2019-10-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Barcelona, , Spain
+Date: 2019-10-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Madrid, , Spain
+Date: 2019-10-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Paris, , France
+Date: 2019-10-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Brussels, , Belgium
+Date: 2019-10-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Tilburg, , Netherlands
+Date: 2019-10-17T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Saarbrucken, , Germany
+Date: 2019-10-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Cologne, , Germany
+Date: 2019-10-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Las Vegas, NV, United States
+Date: 2019-11-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Phoenix, AZ, United States
+Date: 2019-11-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Dallas, TX, United States
+Date: 2019-11-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Atlanta, GA, United States
+Date: 2019-11-22T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: New Orleans, LA, United States
+Date: 2019-11-21T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Houston, TX, United States
+Date: 2019-11-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Charlotte, NC, United States
+Date: 2019-11-23T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Wantagh, NY, United States
+Date: 2019-11-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Boston, MA, United States
+Date: 2019-11-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Philadelphia, PA, United States
+Date: 2019-11-26T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019
+Location: Pittsburgh, PA, United States
+Date: 2019-11-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Silver Spring, MD, United States
+Date: 2019-11-29T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Buffalo, NY, United States
+Date: 2019-11-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Reading, PA, United States
+Date: 2019-12-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Chicago, IL, United States
+Date: 2019-12-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Cleveland, OH, United States
+Date: 2019-12-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Minneapolis, MN, United States
+Date: 2019-12-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Denver, CO, United States
+Date: 2019-12-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Salt Lake City, UT, United States
+Date: 2019-12-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Seattle, WA, United States
+Date: 2019-12-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Portland, OR, United States
+Date: 2019-12-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Sacramento, CA, United States
+Date: 2019-12-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Ventura, CA, United States
+Date: 2019-12-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Los Angeles, CA, United States
+Date: 2019-12-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: San Diego, CA, United States
+Date: 2019-12-14T18:00:00
+
+
+————————————————————————Venue: Regent Theater DTLA
+Location: Los Angeles, CA, United States
+Date: 2019-12-15T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————Venue: Butanta Tropical
+Location: Passo De Sao Marcos, , Brazil
+Date: 2019-09-07T18:00:00
+
+
+————————————————————————Venue: El Teatrito 
+Location: Buenos Aires, , Argentina
+Date: 2019-09-10T18:00:00
+
+
+————————————————————————Venue: Auditorio Lumiere
+Location: Bogota, , Colombia
+Date: 2019-09-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: St.petersburg, , Russia
+Date: 2019-09-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Moscow, , Russia
+Date: 2019-09-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Leipzig, , Germany
+Date: 2019-09-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Hamburg, , Germany
+Date: 2019-09-28T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Oslo, , Norway
+Date: 2019-09-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Stockholm, , Sweden
+Date: 2019-10-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Copenhagen, , Denmark
+Date: 2019-10-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Berlin, , Germany
+Date: 2019-10-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Prague, , Czech Rep
+Date: 2019-10-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Munich, , Germany
+Date: 2019-10-05T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Vienna, , Austria
+Date: 2019-10-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Budapest, , Hungary
+Date: 2019-10-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Zürich, , Switzerland
+Date: 2019-10-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Grenoble, , France
+Date: 2019-10-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Milan, , Italy
+Date: 2019-10-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Madrid, , Spain
+Date: 2019-10-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Barcelona, , Spain
+Date: 2019-10-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Paris, , France
+Date: 2019-10-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Brussels, , Belgium
+Date: 2019-10-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Tilburg, , Netherlands
+Date: 2019-10-17T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Saarbrucken, , Germany
+Date: 2019-10-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Cologne, , Germany
+Date: 2019-10-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Dallas, TX, United States
+Date: 2019-11-18T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Phoenix, AZ, United States
+Date: 2019-11-16T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Houston, TX, United States
+Date: 2019-11-19T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: New Orleans, LA, United States
+Date: 2019-11-21T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire Tour
+Location: Las Vegas, NV, United States
+Date: 2019-11-15T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Atlanta, GA, United States
+Date: 2019-11-22T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Charlotte, NC, United States
+Date: 2019-11-23T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Wantagh, NY, United States
+Date: 2019-11-24T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Boston, MA, United States
+Date: 2019-11-25T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Philadelphia, PA, United States
+Date: 2019-11-26T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019
+Location: Pittsburgh, PA, United States
+Date: 2019-11-27T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Silver Spring, MD, United States
+Date: 2019-11-29T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Buffalo, NY, United States
+Date: 2019-11-30T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Reading, PA, United States
+Date: 2019-12-01T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North American 2019 Tour
+Location: Cleveland, OH, United States
+Date: 2019-12-02T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Chicago, IL, United States
+Date: 2019-12-03T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Minneapolis, MN, United States
+Date: 2019-12-04T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Denver, CO, United States
+Date: 2019-12-06T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Seattle, WA, United States
+Date: 2019-12-09T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Salt Lake City, UT, United States
+Date: 2019-12-07T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Portland, OR, United States
+Date: 2019-12-10T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Sacramento, CA, United States
+Date: 2019-12-11T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Ventura, CA, United States
+Date: 2019-12-12T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: Los Angeles, CA, United States
+Date: 2019-12-13T18:00:00
+
+
+————————————————————————Venue: Shaped By Fire North America 2019
+Location: San Diego, CA, United States
+Date: 2019-12-14T18:00:00
+
+
+————————————————————————Venue: Regent Theater DTLA
+Location: Los Angeles, CA, United States
+Date: 2019-12-15T18:00:00
+
+
+————————————————————————Venue: Circo Voador 
+Location: Monte Alegre De Minas, , Brazil
+Date: 2019-09-08T18:00:00
+
+
+————————————————————————Venue: El Plaza Condesa
+Location: Mexico City, , Mexico
+Date: 2019-09-14T18:00:00
+
+
+————————————————————————Venue: Blondie
+Location: Santiago, , Chile
+Date: 2019-09-12T18:00:00
+
+
+————————————————————————"Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 2019-09-07T18:00:00\n\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 2019-09-08T18:00:00\n\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 2019-09-10T18:00:00\n\n,Venue: Blondie,Location: Santiago, , Chile,Date: 2019-09-12T18:00:00\n\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 2019-09-14T18:00:00\n\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 2019-09-15T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 2019-09-24T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 2019-09-25T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 2019-09-27T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 2019-09-28T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 2019-09-30T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 2019-10-01T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 2019-10-02T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 2019-10-03T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 2019-10-04T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 2019-10-05T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 2019-10-06T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 2019-10-07T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 2019-10-09T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 2019-10-10T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Grenoble, , France,Date: 2019-10-11T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Barcelona, , Spain,Date: 2019-10-12T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Madrid, , Spain,Date: 2019-10-13T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Paris, , France,Date: 2019-10-15T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Brussels, , Belgium,Date: 2019-10-16T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Tilburg, , Netherlands,Date: 2019-10-17T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Saarbrucken, , Germany,Date: 2019-10-18T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Cologne, , Germany,Date: 2019-10-19T18:00:00\n\n,Venue: Shaped By Fire Tour,Location: Las Vegas, NV, United States,Date: 2019-11-15T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Phoenix, AZ, United States,Date: 2019-11-16T18:00:00\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Dallas, TX, United States,Date: 2019-11-18T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Houston, TX, United States,Date: 2019-11-19T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: New Orleans, LA, United States,Date: 2019-11-21T18:00:00\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Atlanta, GA, United States,Date: 2019-11-22T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Charlotte, NC, United States,Date: 2019-11-23T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Wantagh, NY, United States,Date: 2019-11-24T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Boston, MA, United States,Date: 2019-11-25T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Philadelphia, PA, United States,Date: 2019-11-26T18:00:00\n\n,Venue: Shaped By Fire North American 2019,Location: Pittsburgh, PA, United States,Date: 2019-11-27T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Silver Spring, MD, United States,Date: 2019-11-29T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Buffalo, NY, United States,Date: 2019-11-30T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Reading, PA, United States,Date: 2019-12-01T18:00:00\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Cleveland, OH, United States,Date: 2019-12-02T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Chicago, IL, United States,Date: 2019-12-03T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Minneapolis, MN, United States,Date: 2019-12-04T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Denver, CO, United States,Date: 2019-12-06T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Salt Lake City, UT, United States,Date: 2019-12-07T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Seattle, WA, United States,Date: 2019-12-09T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Portland, OR, United States,Date: 2019-12-10T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Sacramento, CA, United States,Date: 2019-12-11T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Ventura, CA, United States,Date: 2019-12-12T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: Los Angeles, CA, United States,Date: 2019-12-13T18:00:00\n\n,Venue: Shaped By Fire North America 2019,Location: San Diego, CA, United States,Date: 2019-12-14T18:00:00\n\n,Venue: Regent Theater DTLA,Location: Los Angeles, CA, United States,Date: 2019-12-15T18:00:00\n\n\n————————————————————————""Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 09/07/2019\n\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 09/08/2019\n\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 09/10/2019\n\n,Venue: Blondie,Location: Santiago, , Chile,Date: 09/12/2019\n\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 09/14/2019\n\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 09/15/2019\n\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 09/24/2019\n\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 09/25/2019\n\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 09/27/2019\n\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 09/28/2019\n\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 09/30/2019\n\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 10/01/2019\n\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 10/02/2019\n\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 10/03/2019\n\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 10/04/2019\n\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 10/05/2019\n\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 10/06/2019\n\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 10/07/2019\n\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 10/09/2019\n\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 10/10/2019\n\n,Venue: Shaped By Fire Tour,Location: Grenoble, , France,Date: 10/11/2019\n\n,Venue: Shaped By Fire Tour,Location: Barcelona, , Spain,Date: 10/12/2019\n\n,Venue: Shaped By Fire Tour,Location: Madrid, , Spain,Date: 10/13/2019\n\n,Venue: Shaped By Fire Tour,Location: Paris, , France,Date: 10/15/2019\n\n,Venue: Shaped By Fire Tour,Location: Brussels, , Belgium,Date: 10/16/2019\n\n,Venue: Shaped By Fire Tour,Location: Tilburg, , Netherlands,Date: 10/17/2019\n\n,Venue: Shaped By Fire Tour,Location: Saarbrucken, , Germany,Date: 10/18/2019\n\n,Venue: Shaped By Fire Tour,Location: Cologne, , Germany,Date: 10/19/2019\n\n,Venue: Shaped By Fire Tour,Location: Las Vegas, NV, United States,Date: 11/15/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Phoenix, AZ, United States,Date: 11/16/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Dallas, TX, United States,Date: 11/18/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Houston, TX, United States,Date: 11/19/2019\n\n,Venue: Shaped By Fire North America 2019,Location: New Orleans, LA, United States,Date: 11/21/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Atlanta, GA, United States,Date: 11/22/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Charlotte, NC, United States,Date: 11/23/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Wantagh, NY, United States,Date: 11/24/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Boston, MA, United States,Date: 11/25/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Philadelphia, PA, United States,Date: 11/26/2019\n\n,Venue: Shaped By Fire North American 2019,Location: Pittsburgh, PA, United States,Date: 11/27/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Silver Spring, MD, United States,Date: 11/29/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Buffalo, NY, United States,Date: 11/30/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Reading, PA, United States,Date: 12/01/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Cleveland, OH, United States,Date: 12/02/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Chicago, IL, United States,Date: 12/03/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Minneapolis, MN, United States,Date: 12/04/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Denver, CO, United States,Date: 12/06/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Salt Lake City, UT, United States,Date: 12/07/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Seattle, WA, United States,Date: 12/09/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Portland, OR, United States,Date: 12/10/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Sacramento, CA, United States,Date: 12/11/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Ventura, CA, United States,Date: 12/12/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Los Angeles, CA, United States,Date: 12/13/2019\n\n,Venue: Shaped By Fire North America 2019,Location: San Diego, CA, United States,Date: 12/14/2019\n\n,Venue: Regent Theater DTLA,Location: Los Angeles, CA, United States,Date: 12/15/2019\n\n\n————————————————————————""Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 09/07/2019\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 09/08/2019\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 09/10/2019\n,Venue: Blondie,Location: Santiago, , Chile,Date: 09/12/2019\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 09/14/2019\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 09/15/2019\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 09/24/2019\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 09/25/2019\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 09/27/2019\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 09/28/2019\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 09/30/2019\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 10/01/2019\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 10/02/2019\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 10/03/2019\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 10/04/2019\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 10/05/2019\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 10/06/2019\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 10/07/2019\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 10/09/2019\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 10/10/2019\n,Venue: Shaped By Fire Tour,Location: Grenoble, , France,Date: 10/11/2019\n,Venue: Shaped By Fire Tour,Location: Barcelona, , Spain,Date: 10/12/2019\n,Venue: Shaped By Fire Tour,Location: Madrid, , Spain,Date: 10/13/2019\n,Venue: Shaped By Fire Tour,Location: Paris, , France,Date: 10/15/2019\n,Venue: Shaped By Fire Tour,Location: Brussels, , Belgium,Date: 10/16/2019\n,Venue: Shaped By Fire Tour,Location: Tilburg, , Netherlands,Date: 10/17/2019\n,Venue: Shaped By Fire Tour,Location: Saarbrucken, , Germany,Date: 10/18/2019\n,Venue: Shaped By Fire Tour,Location: Cologne, , Germany,Date: 10/19/2019\n,Venue: Shaped By Fire Tour,Location: Las Vegas, NV, United States,Date: 11/15/2019\n,Venue: Shaped By Fire North America 2019,Location: Phoenix, AZ, United States,Date: 11/16/2019\n,Venue: Shaped By Fire North American 2019 Tour,Location: Dallas, TX, United States,Date: 11/18/2019\n,Venue: Shaped By Fire North America 2019,Location: Houston, TX, United States,Date: 11/19/2019\n,Venue: Shaped By Fire North America 2019,Location: New Orleans, LA, United States,Date: 11/21/2019\n,Venue: Shaped By Fire North American 2019 Tour,Location: Atlanta, GA, United States,Date: 11/22/2019\n,Venue: Shaped By Fire North America 2019,Location: Charlotte, NC, United States,Date: 11/23/2019\n,Venue: Shaped By Fire North America 2019,Location: Wantagh, NY, United States,Date: 11/24/2019\n,Venue: Shaped By Fire North America 2019,Location: Boston, MA, United States,Date: 11/25/2019\n,Venue: Shaped By Fire North America 2019,Location: Philadelphia, PA, United States,Date: 11/26/2019\n,Venue: Shaped By Fire North American 2019,Location: Pittsburgh, PA, United States,Date: 11/27/2019\n,Venue: Shaped By Fire North America 2019,Location: Silver Spring, MD, United States,Date: 11/29/2019\n,Venue: Shaped By Fire North America 2019,Location: Buffalo, NY, United States,Date: 11/30/2019\n,Venue: Shaped By Fire North America 2019,Location: Reading, PA, United States,Date: 12/01/2019\n,Venue: Shaped By Fire North American 2019 Tour,Location: Cleveland, OH, United States,Date: 12/02/2019\n,Venue: Shaped By Fire North America 2019,Location: Chicago, IL, United States,Date: 12/03/2019\n,Venue: Shaped By Fire North America 2019,Location: Minneapolis, MN, United States,Date: 12/04/2019\n,Venue: Shaped By Fire North America 2019,Location: Denver, CO, United States,Date: 12/06/2019\n,Venue: Shaped By Fire North America 2019,Location: Salt Lake City, UT, United States,Date: 12/07/2019\n,Venue: Shaped By Fire North America 2019,Location: Seattle, WA, United States,Date: 12/09/2019\n,Venue: Shaped By Fire North America 2019,Location: Portland, OR, United States,Date: 12/10/2019\n,Venue: Shaped By Fire North America 2019,Location: Sacramento, CA, United States,Date: 12/11/2019\n,Venue: Shaped By Fire North America 2019,Location: Ventura, CA, United States,Date: 12/12/2019\n,Venue: Shaped By Fire North America 2019,Location: Los Angeles, CA, United States,Date: 12/13/2019\n,Venue: Shaped By Fire North America 2019,Location: San Diego, CA, United States,Date: 12/14/2019\n,Venue: Regent Theater DTLA,Location: Los Angeles, CA, United States,Date: 12/15/2019\n\n————————————————————————""Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 09/07/2019\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 09/08/2019\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 09/10/2019\n,Venue: Blondie,Location: Santiago, , Chile,Date: 09/12/2019\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 09/14/2019\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 09/15/2019\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 09/24/2019\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 09/25/2019\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 09/27/2019\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 09/28/2019\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 09/30/2019\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 10/01/2019\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 10/02/2019\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 10/03/2019\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 10/04/2019\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 10/05/2019\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 10/06/2019\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 10/07/2019\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 10/09/2019\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 10/10/2019\n,Venue: Shaped By Fire Tour,Location: Grenoble, , France,Date: 10/11/2019\n,Venue: Shaped By Fire Tour,Location: Barcelona, , Spain,Date: 10/12/2019\n,Venue: Shaped By Fire Tour,Location: Madrid, , Spain,Date: 10/13/2019\n,Venue: Shaped By Fire Tour,Location: Paris, , France,Date: 10/15/2019\n,Venue: Shaped By Fire Tour,Location: Brussels, , Belgium,Date: 10/16/2019\n,Venue: Shaped By Fire Tour,Location: Tilburg, , Netherlands,Date: 10/17/2019\n,Venue: Shaped By Fire Tour,Location: Saarbrucken, , Germany,Date: 10/18/2019\n,Venue: Shaped By Fire Tour,Location: Cologne, , Germany,Date: 10/19/2019\n,Venue: Shaped By Fire Tour,Location: Las Vegas, NV, United States,Date: 11/15/2019\n,Venue: Shaped By Fire North America 2019,Location: Phoenix, AZ, United States,Date: 11/16/2019\n,Venue: Shaped By Fire North American 2019 Tour,Location: Dallas, TX, United States,Date: 11/18/2019\n,Venue: Shaped By Fire North America 2019,Location: Houston, TX, United States,Date: 11/19/2019\n,Venue: Shaped By Fire North America 2019,Location: New Orleans, LA, United States,Date: 11/21/2019\n,Venue: Shaped By Fire North American 2019 Tour,Location: Atlanta, GA, United States,Date: 11/22/2019\n,Venue: Shaped By Fire North America 2019,Location: Charlotte, NC, United States,Date: 11/23/2019\n,Venue: Shaped By Fire North America 2019,Location: Wantagh, NY, United States,Date: 11/24/2019\n,Venue: Shaped By Fire North America 2019,Location: Boston, MA, United States,Date: 11/25/2019\n,Venue: Shaped By Fire North America 2019,Location: Philadelphia, PA, United States,Date: 11/26/2019\n,Venue: Shaped By Fire North American 2019,Location: Pittsburgh, PA, United States,Date: 11/27/2019\n,Venue: Shaped By Fire North America 2019,Location: Silver Spring, MD, United States,Date: 11/29/2019\n,Venue: Shaped By Fire North America 2019,Location: Buffalo, NY, United States,Date: 11/30/2019\n,Venue: Shaped By Fire North America 2019,Location: Reading, PA, United States,Date: 12/01/2019\n,Venue: Shaped By Fire North American 2019 Tour,Location: Cleveland, OH, United States,Date: 12/02/2019\n,Venue: Shaped By Fire North America 2019,Location: Chicago, IL, United States,Date: 12/03/2019\n,Venue: Shaped By Fire North America 2019,Location: Minneapolis, MN, United States,Date: 12/04/2019\n,Venue: Shaped By Fire North America 2019,Location: Denver, CO, United States,Date: 12/06/2019\n,Venue: Shaped By Fire North America 2019,Location: Salt Lake City, UT, United States,Date: 12/07/2019\n,Venue: Shaped By Fire North America 2019,Location: Seattle, WA, United States,Date: 12/09/2019\n,Venue: Shaped By Fire North America 2019,Location: Portland, OR, United States,Date: 12/10/2019\n,Venue: Shaped By Fire North America 2019,Location: Sacramento, CA, United States,Date: 12/11/2019\n,Venue: Shaped By Fire North America 2019,Location: Ventura, CA, United States,Date: 12/12/2019\n,Venue: Shaped By Fire North America 2019,Location: Los Angeles, CA, United States,Date: 12/13/2019\n,Venue: Shaped By Fire North America 2019,Location: San Diego, CA, United States,Date: 12/14/2019\n,Venue: Regent Theater DTLA,Location: Los Angeles, CA, United States,Date: 12/15/2019\n\n————————————————————————""Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 09/07/2019\n\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 09/08/2019\n\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 09/10/2019\n\n,Venue: Blondie,Location: Santiago, , Chile,Date: 09/12/2019\n\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 09/14/2019\n\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 09/15/2019\n\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 09/24/2019\n\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 09/25/2019\n\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 09/27/2019\n\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 09/28/2019\n\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 09/30/2019\n\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 10/01/2019\n\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 10/02/2019\n\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 10/03/2019\n\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 10/04/2019\n\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 10/05/2019\n\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 10/06/2019\n\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 10/07/2019\n\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 10/09/2019\n\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 10/10/2019\n\n,Venue: Shaped By Fire Tour,Location: Grenoble, , France,Date: 10/11/2019\n\n,Venue: Shaped By Fire Tour,Location: Barcelona, , Spain,Date: 10/12/2019\n\n,Venue: Shaped By Fire Tour,Location: Madrid, , Spain,Date: 10/13/2019\n\n,Venue: Shaped By Fire Tour,Location: Paris, , France,Date: 10/15/2019\n\n,Venue: Shaped By Fire Tour,Location: Brussels, , Belgium,Date: 10/16/2019\n\n,Venue: Shaped By Fire Tour,Location: Tilburg, , Netherlands,Date: 10/17/2019\n\n,Venue: Shaped By Fire Tour,Location: Saarbrucken, , Germany,Date: 10/18/2019\n\n,Venue: Shaped By Fire Tour,Location: Cologne, , Germany,Date: 10/19/2019\n\n,Venue: Shaped By Fire Tour,Location: Las Vegas, NV, United States,Date: 11/15/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Phoenix, AZ, United States,Date: 11/16/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Dallas, TX, United States,Date: 11/18/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Houston, TX, United States,Date: 11/19/2019\n\n,Venue: Shaped By Fire North America 2019,Location: New Orleans, LA, United States,Date: 11/21/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Atlanta, GA, United States,Date: 11/22/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Charlotte, NC, United States,Date: 11/23/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Wantagh, NY, United States,Date: 11/24/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Boston, MA, United States,Date: 11/25/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Philadelphia, PA, United States,Date: 11/26/2019\n\n,Venue: Shaped By Fire North American 2019,Location: Pittsburgh, PA, United States,Date: 11/27/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Silver Spring, MD, United States,Date: 11/29/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Buffalo, NY, United States,Date: 11/30/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Reading, PA, United States,Date: 12/01/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Cleveland, OH, United States,Date: 12/02/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Chicago, IL, United States,Date: 12/03/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Minneapolis, MN, United States,Date: 12/04/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Denver, CO, United States,Date: 12/06/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Salt Lake City, UT, United States,Date: 12/07/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Seattle, WA, United States,Date: 12/09/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Portland, OR, United States,Date: 12/10/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Sacramento, CA, United States,Date: 12/11/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Ventura, CA, United States,Date: 12/12/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Los Angeles, CA, United States,Date: 12/13/2019\n\n,Venue: Shaped By Fire North America 2019,Location: San Diego, CA, United States,Date: 12/14/2019\n\n,Venue: Regent Theater DTLA,Location: Los Angeles, CA, United States,Date: 12/15/2019\n\n\n————————————————————————""\n————————————————————————""\n————————————————————————""\n————————————————————————""\n————————————————————————""\n————————————————————————""Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 09/07/2019\n\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 09/08/2019\n\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 09/10/2019\n\n,Venue: Blondie,Location: Santiago, , Chile,Date: 09/12/2019\n\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 09/14/2019\n\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 09/15/2019\n\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 09/24/2019\n\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 09/25/2019\n\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 09/27/2019\n\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 09/28/2019\n\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 09/30/2019\n\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 10/01/2019\n\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 10/02/2019\n\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 10/03/2019\n\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 10/04/2019\n\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 10/05/2019\n\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 10/06/2019\n\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 10/07/2019\n\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 10/09/2019\n\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 10/10/2019\n\n,Venue: Shaped By Fire Tour,Location: Grenoble, , France,Date: 10/11/2019\n\n,Venue: Shaped By Fire Tour,Location: Barcelona, , Spain,Date: 10/12/2019\n\n,Venue: Shaped By Fire Tour,Location: Madrid, , Spain,Date: 10/13/2019\n\n,Venue: Shaped By Fire Tour,Location: Paris, , France,Date: 10/15/2019\n\n,Venue: Shaped By Fire Tour,Location: Brussels, , Belgium,Date: 10/16/2019\n\n,Venue: Shaped By Fire Tour,Location: Tilburg, , Netherlands,Date: 10/17/2019\n\n,Venue: Shaped By Fire Tour,Location: Saarbrucken, , Germany,Date: 10/18/2019\n\n,Venue: Shaped By Fire Tour,Location: Cologne, , Germany,Date: 10/19/2019\n\n,Venue: Shaped By Fire Tour,Location: Las Vegas, NV, United States,Date: 11/15/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Phoenix, AZ, United States,Date: 11/16/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Dallas, TX, United States,Date: 11/18/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Houston, TX, United States,Date: 11/19/2019\n\n,Venue: Shaped By Fire North America 2019,Location: New Orleans, LA, United States,Date: 11/21/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Atlanta, GA, United States,Date: 11/22/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Charlotte, NC, United States,Date: 11/23/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Wantagh, NY, United States,Date: 11/24/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Boston, MA, United States,Date: 11/25/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Philadelphia, PA, United States,Date: 11/26/2019\n\n,Venue: Shaped By Fire North American 2019,Location: Pittsburgh, PA, United States,Date: 11/27/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Silver Spring, MD, United States,Date: 11/29/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Buffalo, NY, United States,Date: 11/30/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Reading, PA, United States,Date: 12/01/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Cleveland, OH, United States,Date: 12/02/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Chicago, IL, United States,Date: 12/03/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Minneapolis, MN, United States,Date: 12/04/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Denver, CO, United States,Date: 12/06/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Salt Lake City, UT, United States,Date: 12/07/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Seattle, WA, United States,Date: 12/09/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Portland, OR, United States,Date: 12/10/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Sacramento, CA, United States,Date: 12/11/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Ventura, CA, United States,Date: 12/12/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Los Angeles, CA, United States,Date: 12/13/2019\n\n,Venue: Shaped By Fire North America 2019,Location: San Diego, CA, United States,Date: 12/14/2019\n\n,Venue: Regent Theater DTLA,Location: Los Angeles, CA, United States,Date: 12/15/2019\n\n\n————————————————————————""Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 09/07/2019\n\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 09/08/2019\n\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 09/10/2019\n\n,Venue: Blondie,Location: Santiago, , Chile,Date: 09/12/2019\n\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 09/14/2019\n\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 09/15/2019\n\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 09/24/2019\n\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 09/25/2019\n\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 09/27/2019\n\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 09/28/2019\n\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 09/30/2019\n\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 10/01/2019\n\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 10/02/2019\n\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 10/03/2019\n\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 10/04/2019\n\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 10/05/2019\n\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 10/06/2019\n\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 10/07/2019\n\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 10/09/2019\n\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 10/10/2019\n\n,Venue: Shaped By Fire Tour,Location: Grenoble, , France,Date: 10/11/2019\n\n,Venue: Shaped By Fire Tour,Location: Barcelona, , Spain,Date: 10/12/2019\n\n,Venue: Shaped By Fire Tour,Location: Madrid, , Spain,Date: 10/13/2019\n\n,Venue: Shaped By Fire Tour,Location: Paris, , France,Date: 10/15/2019\n\n,Venue: Shaped By Fire Tour,Location: Brussels, , Belgium,Date: 10/16/2019\n\n,Venue: Shaped By Fire Tour,Location: Tilburg, , Netherlands,Date: 10/17/2019\n\n,Venue: Shaped By Fire Tour,Location: Saarbrucken, , Germany,Date: 10/18/2019\n\n,Venue: Shaped By Fire Tour,Location: Cologne, , Germany,Date: 10/19/2019\n\n,Venue: Shaped By Fire Tour,Location: Las Vegas, NV, United States,Date: 11/15/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Phoenix, AZ, United States,Date: 11/16/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Dallas, TX, United States,Date: 11/18/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Houston, TX, United States,Date: 11/19/2019\n\n,Venue: Shaped By Fire North America 2019,Location: New Orleans, LA, United States,Date: 11/21/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Atlanta, GA, United States,Date: 11/22/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Charlotte, NC, United States,Date: 11/23/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Wantagh, NY, United States,Date: 11/24/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Boston, MA, United States,Date: 11/25/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Philadelphia, PA, United States,Date: 11/26/2019\n\n,Venue: Shaped By Fire North American 2019,Location: Pittsburgh, PA, United States,Date: 11/27/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Silver Spring, MD, United States,Date: 11/29/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Buffalo, NY, United States,Date: 11/30/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Reading, PA, United States,Date: 12/01/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Cleveland, OH, United States,Date: 12/02/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Chicago, IL, United States,Date: 12/03/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Minneapolis, MN, United States,Date: 12/04/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Denver, CO, United States,Date: 12/06/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Salt Lake City, UT, United States,Date: 12/07/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Seattle, WA, United States,Date: 12/09/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Portland, OR, United States,Date: 12/10/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Sacramento, CA, United States,Date: 12/11/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Ventura, CA, United States,Date: 12/12/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Los Angeles, CA, United States,Date: 12/13/2019\n\n,Venue: Shaped By Fire North America 2019,Location: San Diego, CA, United States,Date: 12/14/2019\n\n,Venue: Regent Theater DTLA,Location: Los Angeles, CA, United States,Date: 12/15/2019\n\n\n————————————————————————""Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 09/07/2019\n\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 09/08/2019\n\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 09/10/2019\n\n,Venue: Blondie,Location: Santiago, , Chile,Date: 09/12/2019\n\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 09/14/2019\n\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 09/15/2019\n\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 09/24/2019\n\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 09/25/2019\n\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 09/27/2019\n\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 09/28/2019\n\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 09/30/2019\n\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 10/01/2019\n\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 10/02/2019\n\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 10/03/2019\n\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 10/04/2019\n\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 10/05/2019\n\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 10/06/2019\n\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 10/07/2019\n\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 10/09/2019\n\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 10/10/2019\n\n,Venue: Shaped By Fire Tour,Location: Grenoble, , France,Date: 10/11/2019\n\n,Venue: Shaped By Fire Tour,Location: Barcelona, , Spain,Date: 10/12/2019\n\n,Venue: Shaped By Fire Tour,Location: Madrid, , Spain,Date: 10/13/2019\n\n,Venue: Shaped By Fire Tour,Location: Paris, , France,Date: 10/15/2019\n\n,Venue: Shaped By Fire Tour,Location: Brussels, , Belgium,Date: 10/16/2019\n\n,Venue: Shaped By Fire Tour,Location: Tilburg, , Netherlands,Date: 10/17/2019\n\n,Venue: Shaped By Fire Tour,Location: Saarbrucken, , Germany,Date: 10/18/2019\n\n,Venue: Shaped By Fire Tour,Location: Cologne, , Germany,Date: 10/19/2019\n\n,Venue: Shaped By Fire Tour,Location: Las Vegas, NV, United States,Date: 11/15/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Phoenix, AZ, United States,Date: 11/16/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Dallas, TX, United States,Date: 11/18/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Houston, TX, United States,Date: 11/19/2019\n\n,Venue: Shaped By Fire North America 2019,Location: New Orleans, LA, United States,Date: 11/21/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Atlanta, GA, United States,Date: 11/22/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Charlotte, NC, United States,Date: 11/23/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Wantagh, NY, United States,Date: 11/24/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Boston, MA, United States,Date: 11/25/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Philadelphia, PA, United States,Date: 11/26/2019\n\n,Venue: Shaped By Fire North American 2019,Location: Pittsburgh, PA, United States,Date: 11/27/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Silver Spring, MD, United States,Date: 11/29/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Buffalo, NY, United States,Date: 11/30/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Reading, PA, United States,Date: 12/01/2019\n\n,Venue: Shaped By Fire North American 2019 Tour,Location: Cleveland, OH, United States,Date: 12/02/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Chicago, IL, United States,Date: 12/03/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Minneapolis, MN, United States,Date: 12/04/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Denver, CO, United States,Date: 12/06/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Salt Lake City, UT, United States,Date: 12/07/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Seattle, WA, United States,Date: 12/09/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Portland, OR, United States,Date: 12/10/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Sacramento, CA, United States,Date: 12/11/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Ventura, CA, United States,Date: 12/12/2019\n\n,Venue: Shaped By Fire North America 2019,Location: Los Angeles, CA, United States,Date: 12/13/2019\n\n,Venue: Shaped By Fire North America 2019,Location: San Diego, CA, United States,Date: 12/14/2019\n\n,Venue: Regent Theater DTLA,Location: Los Angeles, CA, United States,Date: 12/15/2019\n\n\n————————————————————————""Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 09/07/2019\n\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 09/08/2019\n\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 09/10/2019\n\n,Venue: Blondie,Location: Santiago, , Chile,Date: 09/12/2019\n\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 09/14/2019\n\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 09/15/2019\n\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 09/24/2019\n\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 09/25/2019\n\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 09/27/2019\n\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 09/28/2019\n\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 09/30/2019\n\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 10/01/2019\n\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 10/02/2019\n\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 10/03/2019\n\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 10/04/2019\n\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 10/05/2019\n\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 10/06/2019\n\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 10/07/2019\n\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 10/09/2019\n\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 10/10/2019\n\n\n————————————————————————""Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 09/07/2019\n\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 09/08/2019\n\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 09/10/2019\n\n,Venue: Blondie,Location: Santiago, , Chile,Date: 09/12/2019\n\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 09/14/2019\n\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 09/15/2019\n\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 09/24/2019\n\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 09/25/2019\n\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 09/27/2019\n\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 09/28/2019\n\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 09/30/2019\n\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 10/01/2019\n\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 10/02/2019\n\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 10/03/2019\n\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 10/04/2019\n\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 10/05/2019\n\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 10/06/2019\n\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 10/07/2019\n\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 10/09/2019\n\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 10/10/2019\n\n\n————————————————————————""Venue: Butanta Tropical,Location: Passo De Sao Marcos, , Brazil,Date: 09/07/2019\n\n,Venue: Circo Voador ,Location: Monte Alegre De Minas, , Brazil,Date: 09/08/2019\n\n,Venue: El Teatrito ,Location: Buenos Aires, , Argentina,Date: 09/10/2019\n\n,Venue: Blondie,Location: Santiago, , Chile,Date: 09/12/2019\n\n,Venue: El Plaza Condesa,Location: Mexico City, , Mexico,Date: 09/14/2019\n\n,Venue: Auditorio Lumiere,Location: Bogota, , Colombia,Date: 09/15/2019\n\n,Venue: Shaped By Fire Tour,Location: St.petersburg, , Russia,Date: 09/24/2019\n\n,Venue: Shaped By Fire Tour,Location: Moscow, , Russia,Date: 09/25/2019\n\n,Venue: Shaped By Fire Tour,Location: Leipzig, , Germany,Date: 09/27/2019\n\n,Venue: Shaped By Fire Tour,Location: Hamburg, , Germany,Date: 09/28/2019\n\n,Venue: Shaped By Fire Tour,Location: Oslo, , Norway,Date: 09/30/2019\n\n,Venue: Shaped By Fire Tour,Location: Stockholm, , Sweden,Date: 10/01/2019\n\n,Venue: Shaped By Fire Tour,Location: Copenhagen, , Denmark,Date: 10/02/2019\n\n,Venue: Shaped By Fire Tour,Location: Berlin, , Germany,Date: 10/03/2019\n\n,Venue: Shaped By Fire Tour,Location: Prague, , Czech Rep,Date: 10/04/2019\n\n,Venue: Shaped By Fire Tour,Location: Munich, , Germany,Date: 10/05/2019\n\n,Venue: Shaped By Fire Tour,Location: Vienna, , Austria,Date: 10/06/2019\n\n,Venue: Shaped By Fire Tour,Location: Budapest, , Hungary,Date: 10/07/2019\n\n,Venue: Shaped By Fire Tour,Location: Milan, , Italy,Date: 10/09/2019\n\n,Venue: Shaped By Fire Tour,Location: Zürich, , Switzerland,Date: 10/10/2019\n\n\n————————————————————————"
